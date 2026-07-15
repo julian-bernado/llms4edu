@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ],
+    [
+      "Social Science",
+      "Game Theory"
+    ]
+  ],
+  "legacy_uid": "d3b2f439-b07b-28d8-7dbe-95997ee00fb5",
+  "instructors": {
+    "content": [
+      "114556ab-4e11-bfc2-ab71-2fe2c3eeb3b0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "382000ab-464d-d745-420b-11a36c8de103",
+    "website": "14-123-microeconomic-theory-iii-spring-2015"
+  },
+  "course_title": "Microeconomic Theory III",
+  "course_description": "This course covers models of individual decision-making under\u00a0certainty and uncertainty.\u00a0Applications include risk sharing and financial markets; contracts and information economics; village economies and national development; models with money and credit; trade, spatial economics and differentiated commodities.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.123",
+  "course_image_thumbnail": {
+    "content": "2e9fe8a5-41d5-8aaf-f5d6-47ceb23b3417",
+    "website": "14-123-microeconomic-theory-iii-spring-2015"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "68293a3e-a62c-465a-851d-4bc1fb97c561",
+  "title": "Course Metadata"
+}

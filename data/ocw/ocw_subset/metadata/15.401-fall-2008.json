@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Financial Economics"
+    ],
+    [
+      "Business",
+      "Finance"
+    ]
+  ],
+  "legacy_uid": "25c9e1b8-234d-4f1b-06af-2470affaae74",
+  "instructors": {
+    "content": [
+      "744a26f3-c3cf-9dd6-bd52-a8d351dbfc8e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5ec2e66e-89b0-3d5c-5c78-06672a26167e",
+    "website": "15-401-finance-theory-i-fall-2008"
+  },
+  "course_title": "Finance Theory I",
+  "course_description": "This course introduces the core theory of modern financial economics and financial management, with a focus on capital markets and investments. Topics include functions of capital markets and financial intermediaries, asset valuation, fixed-income securities, common stocks, capital budgeting, diversification and portfolio selection, equilibrium pricing of risky assets, the theory of efficient markets, and an introduction to derivatives and options.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.401",
+  "course_image_thumbnail": {
+    "content": "da841a75-870c-7bc8-a519-7c11c21aa825",
+    "website": "15-401-finance-theory-i-fall-2008"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Lecture Videos",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "3a927148-202f-4162-9f20-5ebe1966f8d7",
+  "title": "Course Metadata"
+}

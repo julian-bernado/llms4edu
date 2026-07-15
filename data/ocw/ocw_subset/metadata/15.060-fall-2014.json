@@ -1,0 +1,64 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Business",
+      "Supply Chain Management"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "31a9e935-1e27-ba0b-fadf-67db5c387b5b",
+  "instructors": {
+    "content": [
+      "1dff9f22-7b49-a99b-1041-180e58cf3ab4",
+      "d1a399e2-1680-4cbf-989b-7c9ba750b486",
+      "1df576e0-a0b6-3182-8091-778086033272"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a784635a-0bb2-514a-81bd-c6ea4db39f84",
+    "website": "15-060-data-models-and-decisions-fall-2014"
+  },
+  "course_title": "Data, Models, and Decisions",
+  "course_description": "This course is designed to introduce first-year Sloan MBA students to the fundamental techniques of using data. In particular, the course focuses on various ways of modeling, or thinking structurally about decision problems in order to make informed management decisions.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.060",
+  "course_image_thumbnail": {
+    "content": "4a5c2115-c4dd-ed91-92d1-8ef392a2e39a",
+    "website": "15-060-data-models-and-decisions-fall-2014"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "54401c01-247a-4a28-a76f-61741fc2e2cf",
+  "title": "Course Metadata"
+}

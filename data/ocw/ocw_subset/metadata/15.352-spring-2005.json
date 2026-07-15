@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Innovation"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "legacy_uid": "4e5ec4f0-0a76-e51e-34f5-2b596e12557f",
+  "instructors": {
+    "content": [
+      "569e7ce0-51f1-accf-3a18-27a0ae1c40f0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e44c77ef-19f6-f320-ee0c-ba33dcd5839c",
+    "website": "15-352-managing-innovation-emerging-trends-spring-2005"
+  },
+  "course_title": "Managing Innovation: Emerging Trends",
+  "course_description": "Important emerging trends in innovation are identified, and their implications for innovation management are explored. Major topics to be discussed include the trend to open information (\"open source\") rather than protected intellectual property; the distribution of innovation over many independent but collaborating actors; and toolkits that empower users to innovate for themselves.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.352",
+  "course_image_thumbnail": {
+    "content": "dea42719-0bd8-1088-0255-7ac2c6584de3",
+    "website": "15-352-managing-innovation-emerging-trends-spring-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "615349a8-9f70-41f0-afb9-17a2d1806146",
+  "title": "Course Metadata"
+}

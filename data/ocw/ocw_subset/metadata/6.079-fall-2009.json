@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ]
+  ],
+  "legacy_uid": "255a0fb3-0d76-4a70-bf3a-46714f4e88d9",
+  "instructors": {
+    "content": [
+      "9c5b2104-9577-9bd8-4bf4-043d64737125",
+      "f13c3ceb-bf39-b0bb-6d76-65da4d5d81fe"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ff244db7-0860-619b-9bec-cf7a3306e569",
+    "website": "6-079-introduction-to-convex-optimization-fall-2009"
+  },
+  "course_title": "Introduction to Convex Optimization",
+  "course_description": "This course aims to give students the tools and training to recognize convex optimization problems that arise in scientific and engineering applications, presenting the basic theory, and concentrating on modeling aspects and results that are useful in applications. Topics include convex sets, convex functions, optimization problems, least-squares, linear and quadratic programs, semidefinite programming, optimality conditions, and duality theory. Applications to signal processing, control, machine learning, finance, digital and analog circuit design, computational geometry, statistics, and mechanical engineering are presented. Students complete hands-on exercises using high-level numerical software.\n\nAcknowledgements\n----------------\n\nThe course materials were developed jointly by [Prof. Stephen Boyd](http://www.stanford.edu/~boyd/) (Stanford), who was a visiting professor at MIT when this course was taught, and [Prof. Lieven Vanderberghe](http://www.ee.ucla.edu/~vandenbe/) (UCLA).\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "6.975",
+  "primary_course_number": "6.079",
+  "course_image_thumbnail": {
+    "content": "a7e0abb4-b8d0-f1c9-2fe0-bcff25b45fcc",
+    "website": "6-079-introduction-to-convex-optimization-fall-2009"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes",
+    "Programming Assignments"
+  ],
+  "site_uid": "dca58895-2201-4898-a529-9d65e4f2a3b1",
+  "title": "Course Metadata"
+}

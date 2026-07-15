@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Numerical Simulation"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ]
+  ],
+  "legacy_uid": "7a62d087-192f-b38b-c2e0-6a3513607e62",
+  "instructors": {
+    "content": [
+      "00ee6aba-4f6e-cdc8-7227-106edbd9c091",
+      "25f898dd-c1d9-fe20-8e5f-5ef33cdeafe3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0f852e82-b57e-1ed7-29cd-c8c5e331d7b8",
+    "website": "15-072j-queues-theory-and-applications-spring-2006"
+  },
+  "course_title": "Queues: Theory and Applications",
+  "course_description": "This class deals with the modeling and analysis of queueing systems, with applications in communications, manufacturing, computers, call centers, service industries and transportation. Topics include birth-death processes and simple Markovian queues, networks of queues and product form networks, single and multi-server queues, multi-class queueing networks, fluid models, adversarial queueing networks, heavy-traffic theory and diffusion approximations. The course will cover state of the art results which lead to research opportunities.\n",
+  "department_numbers": [
+    "15",
+    "6"
+  ],
+  "extra_course_numbers": "6.264J",
+  "primary_course_number": "15.072J",
+  "course_image_thumbnail": {
+    "content": "8dff4f2b-9bb4-e078-ca23-1f9ccb78072f",
+    "website": "15-072j-queues-theory-and-applications-spring-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Projects"
+  ],
+  "site_uid": "d35971cc-3635-48b6-9b52-b7769204f761",
+  "title": "Course Metadata"
+}

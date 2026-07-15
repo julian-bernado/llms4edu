@@ -1,0 +1,45 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "8f276489-5ade-12b1-823a-e013ae9e938b",
+  "instructors": {
+    "content": [
+      "2f17c7a3-7591-ca71-e169-9bebd5088368"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "cf6f5aa4-ce2c-6d26-0778-f2b8f8134b44",
+    "website": "18-s997-the-polynomial-method-fall-2012"
+  },
+  "course_title": "The Polynomial Method",
+  "course_description": "This course offers an introduction to the polynomial method as applied to solving problems in combinatorics in the last decade. The course also explores the connections between the polynomial method as used in these problems to the polynomial method in other fields, including computer science, number theory, and analysis.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.S997",
+  "course_image_thumbnail": {
+    "content": "2dbd4280-4e70-5e46-c078-deab64344685",
+    "website": "18-s997-the-polynomial-method-fall-2012"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "1c2b798d-fb01-4121-b6bf-a38c7f57bfb0",
+  "title": "Course Metadata"
+}

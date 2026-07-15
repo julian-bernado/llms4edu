@@ -1,0 +1,64 @@
+{
+  "term": "Fall",
+  "year": "2018",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Networks"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Cryptography"
+    ]
+  ],
+  "legacy_uid": "eca120b8-a78a-d938-e609-20323e127f21",
+  "instructors": {
+    "content": [
+      "e58cf155-f0e4-fe58-7f2e-19aaeae8ef21"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bb820e66-5142-6bde-62c0-60277dfbb042",
+    "website": "15-s12-blockchain-and-money-fall-2018"
+  },
+  "course_title": "Blockchain and Money",
+  "course_description": "This course is for students wishing to explore blockchain technology's potential use\u2014by entrepreneurs and incumbents\u2014to change the world of money and finance. The course begins with a review of Bitcoin and an understanding of the commercial, technical, and public policy fundamentals of blockchain technology, distributed ledgers, and smart contracts. The class then continues on to current and potential blockchain applications in the financial sector.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.S12",
+  "course_image_thumbnail": {
+    "content": "91e318b4-29cc-9b09-eef6-0ffa02e53d05",
+    "website": "15-s12-blockchain-and-money-fall-2018"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Written Assignments"
+  ],
+  "site_uid": "5a725111-97f5-4e4f-8bf9-2adfb272101e",
+  "title": "Course Metadata"
+}

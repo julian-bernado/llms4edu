@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ]
+  ],
+  "legacy_uid": "030d7a43-9767-68b1-9b2b-0f3c10834bc9",
+  "instructors": {
+    "content": [
+      "0ecf7f42-b98b-e242-843d-b33054063aa5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "54d1a777-a766-6799-ad58-3f802b147c0d",
+    "website": "16-412j-cognitive-robotics-spring-2016"
+  },
+  "course_title": "Cognitive Robotics",
+  "course_description": "This is a class about applying autonomy to real-world systems. The overarching theme uniting the many different topics in this course will center around programming a cognitive robotic. This class takes the approach of introducing new reasoning techniques and ideas incrementally. We start with the current paradigm of programming you're likely familiar with, and evolve it over the semester\u2014continually adding in new features and reasoning capabilities\u2014ending with a robust, intelligent system. These techniques and topics will include algorithms for allowing a robot to: Monitor itself for potential problems (both observable and hidden), scheduling tasks in time, coming up with novel plans to achieve desired goals over time, dealing with the continuous world, collaborating with other (autonomous) agents, dealing with risk, and more.\n",
+  "department_numbers": [
+    "16",
+    "6"
+  ],
+  "extra_course_numbers": "6.834J",
+  "primary_course_number": "16.412J",
+  "course_image_thumbnail": {
+    "content": "817bc8bd-b445-a8a4-b814-47f6546ff194",
+    "website": "16-412j-cognitive-robotics-spring-2016"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Programming Assignments",
+    "Lecture Notes"
+  ],
+  "site_uid": "27ca8dfc-7c9c-40e9-afe6-e18f0e4ea706",
+  "title": "Course Metadata"
+}

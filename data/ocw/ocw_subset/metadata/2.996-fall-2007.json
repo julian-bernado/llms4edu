@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Biomedical Instrumentation"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ]
+  ],
+  "legacy_uid": "4475ffaf-330a-5834-2205-7f141ff9075a",
+  "instructors": {
+    "content": [
+      "1aa6e0b4-7eca-719c-3956-0ac44c5845a0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d60b93ba-fcf0-1fdf-9c10-ad92548341f2",
+    "website": "2-996-biomedical-devices-design-laboratory-fall-2007"
+  },
+  "course_title": "Biomedical Devices Design Laboratory",
+  "course_description": "This course provides intensive coverage of the theory and practice of electromechanical instrument design with application to biomedical devices. Students will work with MGH doctors to develop new medical products from concept to prototype development and testing. Lectures will present techniques for designing electronic circuits as part of complete sensor systems. Topics covered include: basic electronics circuits, principles of accuracy, op amp circuits, analog signal conditioning, power supplies, microprocessors, wireless communications, sensors, and sensor interface circuits. Labs will cover practical printed circuit board (PCB) design including component selection, PCB layout, assembly, and planning and budgeting for large projects. Problem sets and labs in the first six weeks are in support of the project. Major team-based design, build, and test project in the last six weeks. Student teams will be composed of both electrical engineering and mechanical engineering students.\n",
+  "department_numbers": [
+    "2",
+    "6"
+  ],
+  "extra_course_numbers": "6.971",
+  "primary_course_number": "2.996",
+  "course_image_thumbnail": {
+    "content": "4b112e81-b7bf-8b0f-f5e1-5f24bbae9d42",
+    "website": "2-996-biomedical-devices-design-laboratory-fall-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "45736b17-7216-494a-8b94-35d439ddee3b",
+  "title": "Course Metadata"
+}

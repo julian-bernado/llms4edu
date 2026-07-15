@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "legacy_uid": "e77e6c83-238f-7908-fd4d-8009e74a1675",
+  "instructors": {
+    "content": [
+      "b28f05bb-f3c3-b44d-28bc-8f11fc7834cd",
+      "583cc582-1f48-236c-af5a-b2f4750fef40"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ec3b11a9-e619-17ff-610a-af38a3b3a08f",
+    "website": "18-02-multivariable-calculus-spring-2006"
+  },
+  "course_title": "Multivariable Calculus",
+  "course_description": "This course covers vector and multi-variable calculus. It is the second semester in the freshman calculus sequence. Topics include Vectors and Matrices, Partial Derivatives, Double and Triple Integrals, and Vector Calculus in 2 and 3-space.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.02",
+  "course_image_thumbnail": {
+    "content": "bddf2005-a4b3-56c6-6dda-8777d151ab23",
+    "website": "18-02-multivariable-calculus-spring-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams"
+  ],
+  "site_uid": "676d2f58-69cf-4d66-852a-86a955bd63b1",
+  "title": "Course Metadata"
+}

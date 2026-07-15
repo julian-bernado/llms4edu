@@ -1,0 +1,43 @@
+{
+  "term": "Fall",
+  "year": "2018",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "9df939ab-01aa-d7cc-bc04-8d0777452922",
+  "instructors": {
+    "content": [
+      "3e4d61a9-3f5d-b456-290c-4a040ac10050"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9333adb2-34a2-0638-5d9d-dd1de8bae72e",
+    "website": "6-436j-fundamentals-of-probability-fall-2018"
+  },
+  "course_title": "Fundamentals of Probability",
+  "course_description": "This is a course on the fundamentals of probability geared towards first or second-year graduate students who are interested in a rigorous development of the subject. The course covers sample space, random variables, expectations, transforms, Bernoulli and Poisson processes, finite Markov chains, and limit theorems. There is also a number of additional topics such as: language, terminology, and key results from measure theory; interchange of limits and expectations; multivariate Gaussian distributions; and deeper understanding of conditional distributions and expectations.\n",
+  "department_numbers": [
+    "6",
+    "15"
+  ],
+  "extra_course_numbers": "15.085J",
+  "primary_course_number": "6.436J",
+  "course_image_thumbnail": {
+    "content": "13815d65-54f7-3908-9b21-993175ff08d8",
+    "website": "6-436j-fundamentals-of-probability-fall-2018"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "958756d8-5c7e-49d3-a6b0-9cdc19f6581a",
+  "title": "Course Metadata"
+}

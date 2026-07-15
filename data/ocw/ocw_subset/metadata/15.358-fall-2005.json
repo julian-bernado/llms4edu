@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    [
+      "Business",
+      "Entrepreneurship"
+    ]
+  ],
+  "legacy_uid": "4462cf07-b70a-0e56-fbdb-14e2b4b802ae",
+  "instructors": {
+    "content": [
+      "5423bd0e-1a8a-42b8-b44f-eda2fcfedccb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6faca266-0d89-9b09-14b5-58fc95ad3f54",
+    "website": "15-358-the-software-business-fall-2005"
+  },
+  "course_title": "The Software Business",
+  "course_description": "This subject is a seminar-style course aimed at anyone who is interested in founding a software company or working for a software company or company that uses software technology extensively as a senior manager, developer, or product/program manager. It is also appropriate for people interested in the industry or in working as an industry analyst. Many of the issues we discuss are highly relevant for companies whose businesses are heavily dependent on software, such as in e-business or financial services, or embedded software for industrial applications.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.358",
+  "course_image_thumbnail": {
+    "content": "2d687ec8-c407-9309-9807-778e2d02c836",
+    "website": "15-358-the-software-business-fall-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "9fbf45e0-8492-4638-87d1-639d573ea9d8",
+  "title": "Course Metadata"
+}

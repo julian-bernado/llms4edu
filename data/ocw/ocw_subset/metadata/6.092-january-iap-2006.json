@@ -1,0 +1,52 @@
+{
+  "term": "January IAP",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "legacy_uid": "c3677510-a56b-c4a0-df51-6978c53c3977",
+  "instructors": {
+    "content": [
+      "64eb5308-8065-def1-4895-cfd7ad247c83",
+      "1941570a-c407-6e66-02f5-b3eb468124b8",
+      "4959cd5a-b323-4974-e657-49495aa5b3f8",
+      "f46e06df-7d32-a6da-c2c5-cc25330c9b00",
+      "67cc74bc-bcc4-9091-3edd-f0bd6e367c5e",
+      "9440302c-dbd5-39b4-3651-ae4d1249f2c8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "394bf20d-9f52-53b4-5ead-0715cf581fcf",
+    "website": "6-092-java-preparation-for-6-170-january-iap-2006"
+  },
+  "course_title": "Java Preparation for 6.170",
+  "course_description": "This course focuses on introducing the language, libraries, tools and concepts of JavaTM. The course is specifically targeted at students who intend to take [6.170](courses/6-170-laboratory-in-software-engineering-fall-2005) in the following term and feel they would struggle because they lack the necessary background. Topics include: Object-oriented programming, primitives, arrays, objects, inheritance, interfaces, polymorphism, hashing, data structures, collections, nested classes, floating point precision, defensive programming, and depth-first search algorithm.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.092",
+  "course_image_thumbnail": {
+    "content": "d92357fb-9a45-78a5-1bd4-38682ba720b9",
+    "website": "6-092-java-preparation-for-6-170-january-iap-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "7449c841-b984-4412-9339-c272ddfca964",
+  "title": "Course Metadata"
+}

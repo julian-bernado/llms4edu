@@ -1,0 +1,59 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Microtechnology"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    [
+      "Engineering",
+      "Nanotechnology"
+    ]
+  ],
+  "legacy_uid": "fb972180-0131-388d-1f1d-061e2a563ad7",
+  "instructors": {
+    "content": [
+      "faa66210-ee15-cfd0-2ed4-21e62d8ea6da"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "19adb835-b481-d4b8-978e-03d5ace7eedf",
+    "website": "6-720j-integrated-microelectronic-devices-spring-2007"
+  },
+  "course_title": "Integrated Microelectronic Devices",
+  "course_description": "6.720 examines the physics of microelectronic semiconductor devices for silicon integrated circuit applications. Topics covered include: semiconductor fundamentals, p-n junction, metal-oxide semiconductor structure, metal-semiconductor junction, MOS field-effect transistor, and bipolar junction transistor. The course emphasizes physical understanding of device operation through energy band diagrams and short-channel MOSFET device design. Issues in modern device scaling are also outlined. The course is worth 2 Engineering Design Points.\n\nAcknowledgments\n---------------\n\nProf. Jes\u00fas del Alamo would like to thank Prof. Harry Tuller for his support of and help in teaching the course.\n",
+  "department_numbers": [
+    "6",
+    "3"
+  ],
+  "extra_course_numbers": "3.43J",
+  "primary_course_number": "6.720J",
+  "course_image_thumbnail": {
+    "content": "d1379486-90b7-2673-d6e5-0dd5e3826f0d",
+    "website": "6-720j-integrated-microelectronic-devices-spring-2007"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "b3c35cb0-c43f-4257-9da1-aaf5140c0a38",
+  "title": "Course Metadata"
+}

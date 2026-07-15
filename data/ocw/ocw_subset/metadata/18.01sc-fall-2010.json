@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "legacy_uid": "bfe41979-b959-3362-793f-d930b36efa01",
+  "instructors": {
+    "content": [
+      "b28f05bb-f3c3-b44d-28bc-8f11fc7834cd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7b739fdc-0a8f-b030-2fdb-e037fbaa89a3",
+    "website": "18-01sc-single-variable-calculus-fall-2010"
+  },
+  "course_title": "Single Variable Calculus",
+  "course_description": "This calculus course covers differentiation and integration of functions of one variable, and concludes with a brief discussion of infinite series. Calculus is fundamental to many scientific disciplines including physics, engineering, and economics.\n##### Course Format\n\n* * *\n\n[![Click to get started.](/images/button_start.png)](pages/syllabus)This course has been designed for independent study. It includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:\n\n*   **Lecture Videos** with supporting written notes\n*   **Recitation Videos** of problem-solving tips\n*   **Worked Examples** with detailed solutions to sample problems\n*   **Problem sets** with solutions\n*   **Exams** with solutions\n*   **Interactive Java Applets** (\"Mathlets\") to reinforce key concepts\n\n##### Content Development\n\n* * *\n\nDavid Jerison  \nArthur Mattuck  \nHaynes Miller  \nBenjamin Brubaker  \nJeremy Orloff\n\nHeidi Burgiel  \nChristine Breiner  \nDavid Jordan  \nJoel Lewis\n\n##### About OCW Scholar\n\n* * *\n\nOCW Scholar courses are designed specifically for OCW's single largest audience: independent learners. These courses are substantially more complete than typical OCW courses, and include new custom-created content as well as materials repurposed from previously published courses. [Learn more about OCW Scholar](/courses/ocw-scholar).",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.01SC",
+  "course_image_thumbnail": {
+    "content": "4f83f602-3d19-5bbb-a975-68501f73d873",
+    "website": "18-01sc-single-variable-calculus-fall-2010"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Simulations"
+  ],
+  "site_uid": "d6bc0650-9f4e-4ea9-a3fc-75b00f499f3a",
+  "title": "Course Metadata"
+}

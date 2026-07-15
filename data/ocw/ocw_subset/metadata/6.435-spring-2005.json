@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Science and Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Numerical Simulation"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ]
+  ],
+  "legacy_uid": "7ab2528a-3fe9-dc4b-37ad-62894626c28f",
+  "instructors": {
+    "content": [
+      "44e7c398-25e6-1b34-19da-0d58641fcc87"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d6e46c72-6cc1-3b8e-ef0f-a7afae58d3b9",
+    "website": "6-435-system-identification-spring-2005"
+  },
+  "course_title": "System Identification",
+  "course_description": "This course is offered to graduates and includes topics such as mathematical models of systems from observations of their behavior; time series, state-space, and input-output models; model structures, parametrization, and identifiability; non-parametric methods; prediction error methods for parameter estimation, convergence, consistency, and asymptotic distribution; relations to maximum likelihood estimation; recursive estimation; relation to Kalman filters; structure determination; order estimation; Akaike criterion; bounded but unknown noise model; and robustness and practical issues.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.435",
+  "course_image_thumbnail": {
+    "content": "6347faa6-d2c5-df87-eafc-e17301accb45",
+    "website": "6-435-system-identification-spring-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "88bbe89e-a9de-4c17-8510-eaa5da2363d5",
+  "title": "Course Metadata"
+}

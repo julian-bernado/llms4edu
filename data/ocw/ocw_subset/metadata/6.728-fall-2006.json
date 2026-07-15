@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ]
+  ],
+  "legacy_uid": "914ac3ae-bec9-2450-ca76-fe06f6f29a18",
+  "instructors": {
+    "content": [
+      "efe6155e-197e-0eb1-0ef1-b8079db5ad49"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "49dc695f-fb52-b094-300d-acf79ace290d",
+    "website": "6-728-applied-quantum-and-statistical-physics-fall-2006"
+  },
+  "course_title": "Applied Quantum and Statistical Physics",
+  "course_description": "6.728 is offered under the department's \"Devices, Circuits, and Systems\" concentration. The course covers concepts in elementary quantum mechanics and statistical physics, introduces applied quantum physics, and emphasizes an experimental basis for quantum mechanics. Concepts covered include: Schrodinger's equation applied to the free particle, tunneling, the harmonic oscillator, and hydrogen atom, variational methods, Fermi-Dirac, Bose-Einstein, and Boltzmann distribution functions, and simple models for metals, semiconductors, and devices such as electron microscopes, scanning tunneling microscope, thermonic emitters, atomic force microscope, and others.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.728",
+  "course_image_thumbnail": {
+    "content": "a5fb4ac9-c5cd-52f2-7ca2-6e854a27aabf",
+    "website": "6-728-applied-quantum-and-statistical-physics-fall-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Programming Assignments"
+  ],
+  "site_uid": "c9f621ed-8a4c-4b0e-b28a-1135e9d4f011",
+  "title": "Course Metadata"
+}

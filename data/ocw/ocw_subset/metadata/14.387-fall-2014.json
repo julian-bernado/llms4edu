@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Econometrics"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ]
+  ],
+  "legacy_uid": "885c2eea-256b-b303-857b-4834d9372a4d",
+  "instructors": {
+    "content": [
+      "744a649a-985b-a66d-b723-6c56d07258b0",
+      "22a17a94-cba8-7361-03e8-4a86f73b37a7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3680ab46-f388-d7a8-d1db-fe391a776ee7",
+    "website": "14-387-applied-econometrics-mostly-harmless-big-data-fall-2014"
+  },
+  "course_title": "Applied Econometrics: Mostly Harmless Big Data",
+  "course_description": "This course covers empirical strategies for applied micro research questions. Our agenda includes regression and matching, instrumental variables, differences-in-differences, regression discontinuity designs, standard errors, and a module consisting of 8\u20139 lectures on the analysis of high-dimensional data sets a.k.a. \"Big Data\".\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.387",
+  "course_image_thumbnail": {
+    "content": "ab2c331e-ba11-6920-c9ea-3fffc12a5bd0",
+    "website": "14-387-applied-econometrics-mostly-harmless-big-data-fall-2014"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "e2a4b9fc-8aa6-4037-b4a9-450f309828e7",
+  "title": "Course Metadata"
+}

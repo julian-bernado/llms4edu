@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ]
+  ],
+  "legacy_uid": "ed3d13d1-2551-f335-77ef-f129b38b6682",
+  "instructors": {
+    "content": [
+      "4265a55d-6ba8-fde8-eb63-d5d9f8a30111"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0fa5bed1-3fe2-d47a-32eb-1309adf240d6",
+    "website": "6-080-great-ideas-in-theoretical-computer-science-spring-2008"
+  },
+  "course_title": "Great Ideas in Theoretical Computer Science",
+  "course_description": "This course provides a challenging introduction to some of the central ideas of theoretical computer science. It attempts to present a vision of \"computer science beyond computers\": that is, CS as a set of mathematical tools for understanding complex systems such as universes and minds. Beginning in antiquity\u2014with Euclid's algorithm and other ancient examples of computational thinking\u2014the course will progress rapidly through propositional logic, Turing machines and computability, finite automata, G\u00f6del's theorems, efficient algorithms and reducibility, NP-completeness, the P versus NP problem, decision trees and other concrete computational models, the power of randomness, cryptography and one-way functions, computational theories of learning, interactive proofs, and quantum computing and the physical limits of computation. Class participation is essential, as the class will include discussion and debate about the implications of many of these ideas.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "6.089",
+  "primary_course_number": "6.080",
+  "course_image_thumbnail": {
+    "content": "5b20b1b5-f139-f613-9a76-9332008f4306",
+    "website": "6-080-great-ideas-in-theoretical-computer-science-spring-2008"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "247ea398-7014-48ee-9477-9a8bf6eed288",
+  "title": "Course Metadata"
+}

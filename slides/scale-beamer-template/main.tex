@@ -1,0 +1,122 @@
+% =============================================================================
+% Stanford SCALE Initiative — Beamer presentation template
+% Compile with: pdflatex (twice for refs) or XeLaTeX/LuaLaTeX for true Arial
+% =============================================================================
+\documentclass[aspectratio=169,t]{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{booktabs}
+
+% Bibliography (biber backend; Overleaf supports this natively)
+\usepackage[style=authoryear,backend=biber,maxnames=2]{biblatex}
+\addbibresource{references.bib}
+
+% Load the SCALE theme (must be in the same directory as this file)
+\usetheme{scale}
+
+% -----------------------------------------------------------------------------
+% Title metadata
+% -----------------------------------------------------------------------------
+\title{Presentation Title}
+\subtitle{An optional subtitle for the talk}
+\author{Author Name}
+\institute{Stanford SCALE Initiative}
+\date{\today}
+
+% =============================================================================
+\begin{document}
+
+% ----- 1. Title slide -----
+\begin{frame}[plain,noframenumbering]
+  \titlepage
+\end{frame}
+
+% =============================================================================
+\section{Background}
+% Roadmap shown at the start of each section
+\roadmapframe
+
+% ----- Section divider -----
+\sectionframe{Section title}{An optional section subtitle}
+
+% ----- Standard content slide with subtitle -----
+\begin{frame}[fragile]{Slide Title}
+  \framesubtitle{Optional subtitle in italic teal under the bar}
+
+  This is a standard content slide. Body text uses the default sans-serif
+  family (Helvetica via \texttt{helvet}, or true Arial under XeLaTeX with
+  \texttt{fontspec}).
+
+  \begin{itemize}
+    \item First-level bullet in \tealtext{teal}
+    \begin{itemize}
+      \item Second-level bullet in \tealtext{dark teal}
+    \end{itemize}
+    \item Use \verb|\stanfordred{...}| for \stanfordred{Cardinal Red} accents
+    \item Use \verb|\scalehighlight{...}| for \scalehighlight{highlighted text}
+  \end{itemize}
+
+  Citations work as expected~\parencite{example2024}.
+\end{frame}
+
+% =============================================================================
+\section{Methods}
+\roadmapframe
+
+% ----- Two-column slide -----
+\begin{frame}[fragile]{Two-Column Layout}
+  \framesubtitle{Side-by-side comparisons or text-plus-figure layouts}
+
+  \begin{columns}[T,onlytextwidth]
+    \begin{column}{0.48\textwidth}
+      \textbf{\tealtext{Left column}}
+      \begin{itemize}
+        \item Useful for comparisons
+        \item Side-by-side findings
+        \item Text + figure layouts
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \textbf{\tealtext{Right column}}
+      \begin{itemize}
+        \item Drop in a figure with
+              \verb|\includegraphics|
+        \item Or a small table
+        \item Or additional bullets
+      \end{itemize}
+    \end{column}
+  \end{columns}
+
+  \vspace{0.6em}
+  \begin{block}{Block example}
+    Beamer's \texttt{block} environment uses the SCALE teal header color.
+  \end{block}
+\end{frame}
+
+% =============================================================================
+\section{Findings}
+\roadmapframe
+
+\begin{frame}{A Findings Slide}
+  Whatever your results are, drop them here.
+\end{frame}
+
+% =============================================================================
+\section{Discussion}
+\roadmapframe
+
+% ----- Closing slide -----
+\closingframe{Thank you}{Questions \& discussion}
+
+% =============================================================================
+% Optional references slide
+\begin{frame}[allowframebreaks]{References}
+  \nocite{*} % remove this line once you have real \cite{...} calls
+  \printbibliography[heading=none]
+\end{frame}
+
+\end{document}

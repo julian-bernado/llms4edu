@@ -1,0 +1,117 @@
+---
+---
+
+@import "minima";
+
+:root {
+  --background: #ffffff;
+  --text: #444444;
+  --heading: #222222;
+  --muted: #777777;
+  --link: #267cb9;
+  --rule: #e5e5e5;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: var(--text);
+  background: var(--background);
+  font-family: "Noto Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.site {
+  width: min(calc(100% - 3rem), 680px);
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 3rem 0;
+  display: flex;
+  flex-direction: column;
+}
+
+h1,
+h2 {
+  color: var(--heading);
+  font-family: inherit;
+  font-weight: 700;
+}
+
+h1 {
+  margin: -0.25rem 0 1.5rem;
+  font-size: 1.75rem;
+  line-height: 1.2;
+}
+
+h2 {
+  margin: 2rem 0 0.75rem;
+  font-size: 1.15rem;
+}
+
+p {
+  margin: 0 0 1.25rem;
+}
+
+.intro {
+  text-align: center;
+}
+
+.intro p {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.intro .event-meta {
+  margin-top: 1.25rem;
+  color: var(--text);
+}
+
+.resources {
+  margin-top: 2rem;
+}
+
+ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+li {
+  margin: 0.4rem 0;
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover,
+a:focus-visible {
+  text-decoration: underline;
+}
+
+.note {
+  color: var(--muted);
+}
+
+footer {
+  margin-top: auto;
+  padding-top: 4rem;
+  color: var(--muted);
+  font-size: 0.75rem;
+}
+
+@media (max-width: 640px) {
+  .site {
+    width: min(calc(100% - 2rem), 680px);
+    padding: 2rem 0;
+  }
+
+  footer {
+    margin-top: 4rem;
+    padding-top: 0;
+  }
+}

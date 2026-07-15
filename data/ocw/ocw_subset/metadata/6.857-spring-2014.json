@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Networks"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Cryptography"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Security Studies"
+    ]
+  ],
+  "legacy_uid": "6c1b8348-d405-e782-b975-3b67fcdc06e6",
+  "instructors": {
+    "content": [
+      "a6e526cd-bd4e-23c3-79c4-08e53fa35c4a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "906e2683-98a8-3cbd-3136-84dbc6cd2a80",
+    "website": "6-857-network-and-computer-security-spring-2014"
+  },
+  "course_title": "Network and Computer Security",
+  "course_description": "_6.857_ _Network and Computer Security_\u00a0is an upper-level undergraduate, first-year graduate course on network and computer security. It fits within the Computer Systems and Architecture Engineering concentration.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.857",
+  "course_image_thumbnail": {
+    "content": "9004881d-0458-6e01-e18b-2ee8b9ab29ff",
+    "website": "6-857-network-and-computer-security-spring-2014"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Projects",
+    "Programming Assignments"
+  ],
+  "site_uid": "13576aee-e044-483c-94cc-8a63d2ddefa6",
+  "title": "Course Metadata"
+}

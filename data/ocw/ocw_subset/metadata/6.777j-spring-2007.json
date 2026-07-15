@@ -1,0 +1,60 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Microtechnology"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    [
+      "Engineering",
+      "Nanotechnology"
+    ]
+  ],
+  "legacy_uid": "44abfa5e-d52d-3905-4185-794b48ee4bdd",
+  "instructors": {
+    "content": [
+      "fdaa39cf-8d06-11e9-ccf3-4a93d42cabb3",
+      "38303669-59a6-80b2-0955-f5d9a013769c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "48d6e35d-8636-7275-9d9e-08a0056cb84b",
+    "website": "6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007"
+  },
+  "course_title": "Design and Fabrication of Microelectromechanical Devices",
+  "course_description": "6.777J / 2.372J is an introduction to microsystem design. Topics covered include: material properties, microfabrication technologies, structural behavior, sensing methods, fluid flow, microscale transport, noise, and amplifiers feedback systems. Student teams design microsystems (sensors, actuators, and sensing/control systems) of a variety of types, (e.g., optical MEMS, bioMEMS, inertial sensors) to meet a set of performance specifications (e.g., sensitivity, signal-to-noise) using a realistic microfabrication process. There is an emphasis on modeling and simulation in the design process. Prior fabrication experience is desirable. The course is worth 4 Engineering Design Points.\n",
+  "department_numbers": [
+    "6",
+    "2"
+  ],
+  "extra_course_numbers": "2.372J",
+  "primary_course_number": "6.777J",
+  "course_image_thumbnail": {
+    "content": "06827d32-e1d4-a291-f6d2-b513feee7a82",
+    "website": "6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Projects",
+    "Programming Assignments"
+  ],
+  "site_uid": "3888ce2a-86e0-4c33-8892-bac8882f5e1c",
+  "title": "Course Metadata"
+}

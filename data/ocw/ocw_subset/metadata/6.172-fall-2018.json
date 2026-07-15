@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ]
+  ],
+  "legacy_uid": "a18b8029-6ad4-d548-00db-cdd1f6c1ac1f",
+  "instructors": {
+    "content": [
+      "fe9c7559-88b3-ab2d-aa1d-de42afa2362f",
+      "1650916a-e340-08ef-7cf3-e98b6241deec"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2ea5b155-0197-db09-5fcb-82df55203675",
+    "website": "6-172-performance-engineering-of-software-systems-fall-2018"
+  },
+  "course_title": "Performance Engineering of Software Systems",
+  "course_description": "6.172 is an 18-unit class that provides a hands-on, project-based introduction to building scalable and high-performance software systems. Topics include performance analysis, algorithmic techniques for high performance, instruction-level optimizations, caching optimizations, parallel programming, and building scalable systems. The course programming language is C.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.172",
+  "course_image_thumbnail": {
+    "content": "76ad5581-4b9d-7d4e-fac9-228a31f87058",
+    "website": "6-172-performance-engineering-of-software-systems-fall-2018"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Programming Assignments",
+    "Projects",
+    "Lecture Notes",
+    "Exams with Solutions"
+  ],
+  "site_uid": "a9a6933b-67e0-412c-b339-0e947faf7fba",
+  "title": "Course Metadata"
+}

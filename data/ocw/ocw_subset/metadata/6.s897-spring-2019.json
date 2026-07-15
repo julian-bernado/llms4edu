@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2019",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Human-Computer Interfaces"
+    ],
+    [
+      "Health and Medicine",
+      "Medical Imaging"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ]
+  ],
+  "legacy_uid": "6d7c4fd2-eec3-e2b5-55c9-0361c2e8ab93",
+  "instructors": {
+    "content": [
+      "63a00f76-105c-6091-d09d-83837b079c6c",
+      "194db016-f824-1bfa-a7f9-17549a682f84"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "73b7842c-733d-0677-6cef-f964880a0e41",
+    "website": "6-s897-machine-learning-for-healthcare-spring-2019"
+  },
+  "course_title": "Machine Learning for Healthcare",
+  "course_description": "This course introduces students to machine learning in healthcare, including the nature of clinical data and the use of machine learning for risk stratification, disease progression modeling, precision medicine, diagnosis, subtype discovery, and improving clinical workflows.\n",
+  "department_numbers": [
+    "6",
+    "HST"
+  ],
+  "extra_course_numbers": "HST.956",
+  "primary_course_number": "6.S897",
+  "course_image_thumbnail": {
+    "content": "05773ee8-0a9c-9b68-419a-c9003cfbf20d",
+    "website": "6-s897-machine-learning-for-healthcare-spring-2019"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "5edbb93e-e343-4ac1-af3e-01486b1854a1",
+  "title": "Course Metadata"
+}

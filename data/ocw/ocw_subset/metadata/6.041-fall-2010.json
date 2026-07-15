@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "af04d45c-a436-787f-d350-f7cc4f6c28fc",
+  "instructors": {
+    "content": [
+      "67510421-f963-0cd2-3854-bfc58720f2b4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "cfc114d5-c85a-0a7c-7be2-f638d18851ca",
+    "website": "6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010"
+  },
+  "course_title": "Probabilistic Systems Analysis and Applied Probability",
+  "course_description": "Welcome to 6.041/6.431, a subject on the modeling and analysis of random phenomena and processes, including the basics of statistical inference. Nowadays, there is broad consensus that the ability to think probabilistically is a fundamental component of scientific literacy. For example:\n\n*   The concept of statistical significance (to be touched upon at the end of this course) is considered by the Financial Times as one of \"The Ten Things Everyone Should Know About Science\".\n*   A [recent Scientific American article](http://www.scientificamerican.com/article.cfm?id=knowing-your-chances) argues that statistical literacy is crucial in making health-related decisions.\n*   Finally, an [article in the New York Times](http://www.nytimes.com/2009/08/06/technology/06stats.html) identifies statistical data analysis as an upcoming profession, valuable everywhere, from Google and Netflix to the Office of Management and Budget.\n\nThe aim of this class is to introduce the relevant models, skills, and tools, by combining mathematics with conceptual understanding and intuition.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "6.431",
+  "primary_course_number": "6.041",
+  "course_image_thumbnail": {
+    "content": "72e35a0e-e01b-c1b3-42c8-c51a3d846e9c",
+    "website": "6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Videos"
+  ],
+  "site_uid": "651d9b8c-15ed-441c-baaf-6bc66f094985",
+  "title": "Course Metadata"
+}

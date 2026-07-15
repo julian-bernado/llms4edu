@@ -1,0 +1,298 @@
+% =============================================================================
+% beamerthemescale.sty
+% Custom Beamer theme matching the Stanford SCALE Initiative slide template
+% =============================================================================
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{beamerthemescale}[2026/05/03 SCALE Initiative Beamer theme]
+
+\RequirePackage{tikz}
+\RequirePackage{graphicx}
+\RequirePackage{calc}
+\usetikzlibrary{positioning}
+
+% -----------------------------------------------------------------------------
+% Color palette (sampled exactly from the source PPTX)
+% -----------------------------------------------------------------------------
+\definecolor{scaleTeal}{HTML}{009AB4}      % Primary teal (title/section background)
+\definecolor{scaleDarkTeal}{HTML}{1D3457}  % Dark accent
+\definecolor{scaleLightTeal}{HTML}{B0D3E1} % Light accent
+\definecolor{scaleRed}{HTML}{8C1515}       % Stanford Cardinal Red
+\definecolor{scaleGray}{HTML}{7E7775}      % Body subtle gray
+\definecolor{scaleHeaderTeal}{HTML}{009AB4}% Content slide header bar
+\definecolor{scaleAccent}{HTML}{83AEC5}    % Lighter teal accent
+
+% -----------------------------------------------------------------------------
+% Typography — Helvetica via helvet (close visual match for Arial under
+% pdflatex). For true Arial, switch to XeLaTeX/LuaLaTeX and uncomment fontspec.
+% -----------------------------------------------------------------------------
+\RequirePackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+% \RequirePackage{fontspec}
+% \setsansfont{Arial}
+% \setmainfont{Arial}
+
+% -----------------------------------------------------------------------------
+% Default text & layout settings
+% -----------------------------------------------------------------------------
+\setbeamercolor{normal text}{fg=black,bg=white}
+\setbeamercolor{structure}{fg=scaleTeal}
+\setbeamercolor{alerted text}{fg=scaleRed}
+\setbeamercolor{example text}{fg=scaleDarkTeal}
+
+% Frame title bar (teal w/ white text) and italic teal subtitle below it
+\setbeamercolor{frametitle}{fg=white,bg=scaleTeal}
+\setbeamerfont{frametitle}{series=\bfseries,size=\Large}
+\setbeamercolor{framesubtitle}{fg=scaleTeal}
+\setbeamerfont{framesubtitle}{series=\mdseries,size=\small,shape=\itshape}
+
+% Title-page text colors (white on teal)
+\setbeamercolor{title}{fg=white}
+\setbeamercolor{subtitle}{fg=white}
+\setbeamercolor{author}{fg=white}
+\setbeamercolor{date}{fg=white}
+\setbeamercolor{institute}{fg=white}
+
+% Itemize / enumerate / block
+\setbeamertemplate{itemize item}{\color{scaleTeal}\textbullet}
+\setbeamertemplate{itemize subitem}{\color{scaleDarkTeal}--}
+\setbeamertemplate{itemize subsubitem}{\color{scaleGray}\textopenbullet}
+\setbeamercolor{itemize item}{fg=scaleTeal}
+\setbeamercolor{itemize subitem}{fg=scaleDarkTeal}
+\setbeamercolor{enumerate item}{fg=scaleTeal}
+\setbeamercolor{block title}{fg=white,bg=scaleTeal}
+\setbeamercolor{block body}{bg=scaleLightTeal!30}
+
+\setbeamertemplate{navigation symbols}{}
+
+% -----------------------------------------------------------------------------
+% Asset paths (override with \renewcommand if needed)
+% -----------------------------------------------------------------------------
+\providecommand{\scalelogo}{stanford-scale-logo.png}
+\providecommand{\scalegear}{gear-graphic.png}
+\providecommand{\scalegearfaded}{gear-graphic-faded.png}
+
+% -----------------------------------------------------------------------------
+% FRAME TITLE TEMPLATE — teal bar + optional italic teal subtitle below it
+% -----------------------------------------------------------------------------
+\setbeamertemplate{frametitle}{%
+  \nointerlineskip
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.6ex,dp=1.2ex,leftskip=0.6cm,rightskip=0.6cm]{frametitle}%
+    \strut\insertframetitle\strut%
+  \end{beamercolorbox}%
+  \nointerlineskip
+  {\color{scaleLightTeal}\rule{\paperwidth}{1.2pt}}%
+  \ifx\insertframesubtitle\@empty
+    \vskip 0.25cm%
+  \else
+    \vskip 0.15cm
+    \hspace*{0.6cm}{\usebeamerfont{framesubtitle}\usebeamercolor[fg]{framesubtitle}\insertframesubtitle}\par
+    \vskip 0.20cm
+  \fi
+}
+
+% -----------------------------------------------------------------------------
+% FOOTER — Stanford SCALE logo on left, page number on right
+% -----------------------------------------------------------------------------
+\setbeamertemplate{footline}{%
+  \leavevmode%
+  \hbox{%
+    \begin{beamercolorbox}[wd=0.85\paperwidth,ht=0.8cm,dp=0.2cm,leftskip=0.4cm]{}%
+      \raisebox{-0.05cm}{\includegraphics[height=0.55cm]{\scalelogo}}%
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=0.15\paperwidth,ht=0.8cm,dp=0.2cm,rightskip=0.4cm]{}%
+      \hfill{\color{scaleGray}\small\insertframenumber}%
+    \end{beamercolorbox}%
+  }%
+}
+
+% -----------------------------------------------------------------------------
+% TITLE PAGE — full teal area + 1.4cm white footer strip.
+% Gear is faded, smaller (0.42 of paper width), and CLIPPED at the
+% teal/white boundary so it can't bleed into the white strip.
+% -----------------------------------------------------------------------------
+\defbeamertemplate*{title page}{scale}[1][]{%
+  \begin{tikzpicture}[remember picture,overlay]
+    \fill[scaleTeal]
+      (current page.north west) rectangle
+      ([yshift=1.4cm]current page.south east);
+    \begin{scope}
+      \clip (current page.north west) rectangle
+            ([yshift=1.4cm]current page.south east);
+      \node[anchor=south east,xshift=1.5cm,yshift=1.4cm] at (current page.south east)
+        {\includegraphics[width=0.42\paperwidth]{\scalegearfaded}};
+    \end{scope}
+    \node[anchor=center,text=white,align=center,text width=0.9\paperwidth] at
+      ([yshift=1.7cm]current page.center) {%
+        \hyphenpenalty=10000\exhyphenpenalty=10000\emergencystretch=3em%
+        {\fontsize{27pt}{33pt}\selectfont\bfseries\inserttitle}%
+        \ifx\insertsubtitle\@empty\else
+          \\[0.6em]{\fontsize{16pt}{20pt}\selectfont\insertsubtitle}%
+        \fi
+      };
+    \node[anchor=center,text=white,align=center,text width=0.85\paperwidth] at
+      ([yshift=-1.3cm]current page.center) {%
+        \ifx\insertauthor\@empty\else
+          {\large\insertauthor}\\[0.4em]
+        \fi
+        \ifx\insertinstitute\@empty\else
+          {\small\insertinstitute}\\[0.25em]
+        \fi
+        \ifx\insertdate\@empty\else
+          {\small\insertdate}
+        \fi
+      };
+    \draw[scaleLightTeal,line width=1.2pt]
+      ([yshift=1.45cm]current page.south west) --
+      ([yshift=1.45cm]current page.south east);
+    \node[anchor=west,xshift=0.6cm] at
+      ([yshift=0.7cm]current page.south west)
+      {\includegraphics[height=1.0cm]{\scalelogo}};
+  \end{tikzpicture}%
+}
+
+% -----------------------------------------------------------------------------
+% SECTION SLIDE — gear is LARGER here (0.55) because the teal area
+% extends almost to the bottom (only a 1cm logo strip).
+% Use:   \sectionframe{Section title}{Optional subtitle}
+% -----------------------------------------------------------------------------
+\newcommand{\sectionframe}[2]{%
+  {%
+    \setbeamertemplate{footline}{}%
+    \begin{frame}[plain,noframenumbering]
+      \begin{tikzpicture}[remember picture,overlay]
+        \fill[scaleTeal]
+          (current page.north west) rectangle
+          ([yshift=1.0cm]current page.south east);
+        \begin{scope}
+          \clip (current page.north west) rectangle
+                ([yshift=1.0cm]current page.south east);
+          \node[anchor=south east,xshift=1.8cm,yshift=1.0cm] at (current page.south east)
+            {\includegraphics[width=0.55\paperwidth]{\scalegearfaded}};
+        \end{scope}
+        \node[anchor=west,text=white,align=left,text width=0.7\paperwidth] at
+          ([xshift=0.8cm,yshift=1.0cm]current page.west) {%
+            {\fontsize{30pt}{36pt}\selectfont\bfseries #1}\\[0.5em]
+            {\fontsize{14pt}{18pt}\selectfont #2}
+          };
+        % Logo drawn directly in the overlay so [plain] can't suppress it
+        \node[anchor=west,xshift=0.4cm] at
+          ([yshift=0.5cm]current page.south west)
+          {\includegraphics[height=0.55cm]{\scalelogo}};
+      \end{tikzpicture}%
+    \end{frame}
+  }%
+}
+% -----------------------------------------------------------------------------
+% CLOSING SLIDE — same proportions as title page (0.42 gear, clipped)
+% -----------------------------------------------------------------------------
+\newcommand{\closingframe}[2]{%
+  {%
+    \setbeamertemplate{footline}{}%
+    \begin{frame}[plain,noframenumbering]
+      \begin{tikzpicture}[remember picture,overlay]
+        \fill[scaleTeal]
+          (current page.north west) rectangle
+          ([yshift=1.4cm]current page.south east);
+        \begin{scope}
+          \clip (current page.north west) rectangle
+                ([yshift=1.4cm]current page.south east);
+          \node[anchor=south east,xshift=1.5cm,yshift=1.4cm] at (current page.south east)
+            {\includegraphics[width=0.42\paperwidth]{\scalegearfaded}};
+        \end{scope}
+        \node[anchor=center,text=white,align=center,text width=0.85\paperwidth] at
+          ([yshift=0.5cm]current page.center) {%
+            {\fontsize{34pt}{40pt}\selectfont\bfseries #1}%
+            \ifx\relax#2\relax\else
+              \\[0.9em]{\fontsize{18pt}{22pt}\selectfont #2}%
+            \fi
+          };
+        \draw[scaleLightTeal,line width=1.2pt]
+          ([yshift=1.45cm]current page.south west) --
+          ([yshift=1.45cm]current page.south east);
+        \node[anchor=west,xshift=0.6cm] at
+          ([yshift=0.7cm]current page.south west)
+          {\includegraphics[height=1.0cm]{\scalelogo}};
+      \end{tikzpicture}%
+    \end{frame}
+  }%
+}
+
+% -----------------------------------------------------------------------------
+% ROADMAP / TABLE-OF-CONTENTS FRAME
+%
+% Place \roadmapframe at the start of every \section to remind the audience
+% where they are. The current section is highlighted in white; the others
+% are dimmed to light teal.
+%
+% Usage:
+%   \section{Background}
+%   \roadmapframe                  % uses default title "Roadmap"
+%   \roadmapframe[Where we are]    % custom title
+% -----------------------------------------------------------------------------
+
+% TOC item colors / template
+% Current section = white; other sections = light teal at reduced opacity.
+% We must use \usebeamercolor (not hard-coded \color{white}) so the
+% "shaded" variant takes effect for non-current sections.
+\setbeamercolor{section in toc}{fg=white}
+\setbeamercolor{section in toc shaded}{fg=scaleLightTeal!75}
+\setbeamertemplate{section in toc}{%
+  \leavevmode\leftskip=0pt%
+  {\usebeamercolor[fg]{section in toc}\Large$\bullet$}~%
+  {\usebeamercolor[fg]{section in toc}\large\bfseries\inserttocsectionnumber.~\inserttocsection}\par
+  \vskip 0.3em
+}
+\setbeamertemplate{section in toc shaded}{%
+  \leavevmode\leftskip=0pt%
+  {\usebeamercolor[fg]{section in toc shaded}\Large$\circ$}~%
+  {\usebeamercolor[fg]{section in toc shaded}\large\inserttocsectionnumber.~\inserttocsection}\par
+  \vskip 0.3em
+}
+
+\newcommand{\roadmapframe}[1][Roadmap]{%
+  {%
+    \setbeamertemplate{footline}{}%
+    \begin{frame}[plain,noframenumbering]
+      \begin{tikzpicture}[remember picture,overlay]
+        \fill[scaleTeal]
+          (current page.north west) rectangle
+          ([yshift=1.0cm]current page.south east);
+        \begin{scope}
+          \clip (current page.north west) rectangle
+                ([yshift=1.0cm]current page.south east);
+          \node[anchor=south east,xshift=2.2cm,yshift=1.0cm] at (current page.south east)
+            {\includegraphics[width=0.50\paperwidth]{\scalegearfaded}};
+        \end{scope}
+        % Title
+        \node[anchor=north west,text=white,align=left] at
+          ([xshift=0.8cm,yshift=-0.9cm]current page.north west) {%
+            {\fontsize{26pt}{30pt}\selectfont\bfseries #1}%
+          };
+        % Light-teal underline
+        \draw[scaleLightTeal,line width=1.2pt]
+          ([xshift=0.8cm,yshift=-2.1cm]current page.north west) --
+          ([xshift=6.0cm,yshift=-2.1cm]current page.north west);
+        % Section list (left half of slide)
+        \node[anchor=north west,text=white,align=left,text width=0.55\paperwidth] at
+          ([xshift=0.8cm,yshift=-2.6cm]current page.north west) {%
+            \tableofcontents[currentsection,sectionstyle=show/shaded,subsectionstyle=hide]%
+          };
+        \node[anchor=west,xshift=0.4cm] at
+          ([yshift=0.5cm]current page.south west)
+          {\includegraphics[height=0.55cm]{\scalelogo}};
+      \end{tikzpicture}%
+    \end{frame}
+  }%
+}
+
+% -----------------------------------------------------------------------------
+% Convenience commands
+% -----------------------------------------------------------------------------
+\newcommand{\tealtext}[1]{{\color{scaleTeal}#1}}
+\newcommand{\stanfordred}[1]{{\color{scaleRed}#1}}
+\newcommand{\scalehighlight}[1]{%
+  \colorbox{scaleLightTeal!40}{\strut #1}%
+}
+
+\endinput

@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Humanities",
+      "Linguistics",
+      "Phonology"
+    ],
+    [
+      "Humanities",
+      "Linguistics"
+    ]
+  ],
+  "legacy_uid": "24661883-91c6-8560-032a-1620302bd032",
+  "instructors": {
+    "content": [
+      "085cca64-29bd-1de8-d937-fc3dd0852d6e",
+      "3a860aa3-0530-94c1-9a2d-a7504d4b3101",
+      "29b32028-314d-55a5-e5a8-7770ba8ab63a",
+      "d92b56a3-9ae3-8851-4cf7-ecf1d09c1a1e",
+      "a42dfeb7-6e09-fe0b-9cc0-b232df89350d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3eef0fc9-4114-bc40-d162-8059a52595bb",
+    "website": "24-941j-the-lexicon-and-its-features-spring-2007"
+  },
+  "course_title": "The Lexicon and Its Features",
+  "course_description": "This course provides an overview of the distinctive features which distinguish sound categories of languages of the world. Theories which relate these categories to their acoustic and articulatory correlates, both universally and in particular languages, are covered. Models of word recognition by listeners, features, and phonological structure are also discussed. In addition, the course offers a variety of perspectives on these issues, drawn from Electrical Engineering, Linguistics and Cognitive Science.\n",
+  "department_numbers": [
+    "24",
+    "6",
+    "9",
+    "HST"
+  ],
+  "extra_course_numbers": "6.543J,9.587J,HST.727J",
+  "primary_course_number": "24.941J",
+  "course_image_thumbnail": {
+    "content": "ec808fb0-8e04-a5e6-0d9c-148044879726",
+    "website": "24-941j-the-lexicon-and-its-features-spring-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "68b60df2-7c79-40fb-bce0-0496b0f39850",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,41 @@
+{
+  "term": "Fall",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "legacy_uid": "ef3a56c6-a6c4-855c-e13e-0c30b143ef9b",
+  "instructors": {
+    "content": [
+      "7e99c171-2da4-1fdc-a984-68ab5291d71d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5e0c719d-764c-6891-7a8e-422c4fd7c449",
+    "website": "18-905-algebraic-topology-i-fall-2016"
+  },
+  "course_title": "Algebraic Topology I",
+  "course_description": "This is a course on the singular homology of topological spaces. Topics include: Singular homology, CW complexes, Homological algebra, Cohomology, and Poincare duality.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.905",
+  "course_image_thumbnail": {
+    "content": "c8f3830c-3973-3946-803f-0493b6bb1054",
+    "website": "18-905-algebraic-topology-i-fall-2016"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "a2209ff8-55fc-4a03-81e0-ceab4013598d",
+  "title": "Course Metadata"
+}

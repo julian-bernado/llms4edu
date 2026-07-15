@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ]
+  ],
+  "legacy_uid": "05ad25ff-3ad2-920d-891d-e9366ab914d1",
+  "instructors": {
+    "content": [
+      "ce225816-7b98-01a6-0ec0-96ffed5dbe51",
+      "14620118-8f02-c7ab-4680-2d1d4e2d5443",
+      "696197fb-f69b-fb82-0ee6-5cb8ca38fe1b",
+      "ecee8a2a-3c5b-085f-b9c8-e61f752abe7c",
+      "faa66210-ee15-cfd0-2ed4-21e62d8ea6da"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a45762a1-59a9-6bbc-55da-a399e4f206e7",
+    "website": "6-012-microelectronic-devices-and-circuits-spring-2009"
+  },
+  "course_title": "Microelectronic Devices and Circuits",
+  "course_description": "6.012 is the header course for the department's \"Devices, Circuits and Systems\" concentration. The topics covered include: modeling of microelectronic devices, basic microelectronic circuit analysis and design, physical electronics of semiconductor junction and metal-on-silicon (MOS) devices, relation of electrical behavior to internal physical processes, development of circuit models, and understanding the uses and limitations of various models. The course uses incremental and large-signal techniques to analyze and design bipolar and field effect transistor circuits, with examples chosen from digital circuits, single-ended and differential linear amplifiers, and other integrated circuits.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.012",
+  "course_image_thumbnail": {
+    "content": "6d6dabf2-6ef4-6989-5969-014d42272d21",
+    "website": "6-012-microelectronic-devices-and-circuits-spring-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "35dabdfd-b255-405f-9c98-2433f75db9e6",
+  "title": "Course Metadata"
+}

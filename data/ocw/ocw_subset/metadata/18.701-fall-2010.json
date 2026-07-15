@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "06d34416-4f58-3612-2b02-2e9296e86b97",
+  "instructors": {
+    "content": [
+      "720b1aa2-7199-bc5d-59ac-1e6587ef4c50"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "afe1d32a-60b2-c66b-0940-96708cdce61e",
+    "website": "18-701-algebra-i-fall-2010"
+  },
+  "course_title": "Algebra I",
+  "course_description": "This undergraduate level Algebra I course covers groups, vector spaces, linear transformations, symmetry groups, bilinear forms, and linear groups.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.701",
+  "course_image_thumbnail": {
+    "content": "a8ba4347-9001-ade3-e5dc-781bb3e791e6",
+    "website": "18-701-algebra-i-fall-2010"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "7a0eb77f-bb68-457c-b799-028daf079acf",
+  "title": "Course Metadata"
+}

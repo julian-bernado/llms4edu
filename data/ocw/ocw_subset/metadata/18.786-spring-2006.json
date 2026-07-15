@@ -1,0 +1,41 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ]
+  ],
+  "legacy_uid": "0c2c7a97-384a-3af1-87b9-e56641ccedb8",
+  "instructors": {
+    "content": [
+      "3a679c59-2d04-91b6-f3df-58795f497715"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "06e3b8f5-2ff0-b481-586b-699a9f7c85ef",
+    "website": "18-786-topics-in-algebraic-number-theory-spring-2006"
+  },
+  "course_title": "Topics in Algebraic Number Theory",
+  "course_description": "This course is a first course in algebraic number theory. Topics to be covered include number fields, class numbers, Dirichlet's units theorem, cyclotomic fields, local fields, valuations, decomposition and inertia groups, ramification, basic analytic methods, and basic class field theory. An additional theme running throughout the course will be the use of computer algebra to investigate number-theoretic questions; this theme will appear primarily in the problem sets.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.786",
+  "course_image_thumbnail": {
+    "content": "6200e3fa-726e-af26-957a-02f08505435e",
+    "website": "18-786-topics-in-algebraic-number-theory-spring-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams"
+  ],
+  "site_uid": "6746c693-2f97-40ed-8e3a-5b635db29ab5",
+  "title": "Course Metadata"
+}

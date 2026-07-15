@@ -1,0 +1,51 @@
+{
+  "term": "January IAP",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "legacy_uid": "0a950506-d1fa-ac0b-ae3b-a771c9ae36f7",
+  "instructors": {
+    "content": [
+      "6de792e7-1191-7b96-7b6a-8455e6af8a63",
+      "929d1aa1-a1d2-9bbf-e683-e73d828b71cd",
+      "01a4a19e-ed99-119e-232d-984396cdc94a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dc7d141c-8653-52ed-ae25-09739884f34e",
+    "website": "6-s096-introduction-to-c-and-c-january-iap-2013"
+  },
+  "course_title": "Introduction to C and C++",
+  "course_description": "This course provides a fast-paced introduction to the C and C++ programming languages. You will learn the required background knowledge, including memory management, pointers, preprocessor macros, object-oriented programming, and how to find bugs when you inevitably use any of those incorrectly. There will be daily assignments and a small-scale individual project.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.S096",
+  "course_image_thumbnail": {
+    "content": "c29694eb-48a3-f019-87f8-5abba846e51d",
+    "website": "6-s096-introduction-to-c-and-c-january-iap-2013"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Projects",
+    "Programming Assignments with Examples"
+  ],
+  "site_uid": "ff743b76-e55f-4ab9-92c7-5930af671e89",
+  "title": "Course Metadata"
+}

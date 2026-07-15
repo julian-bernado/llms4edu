@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ],
+    [
+      "Business",
+      "Marketing"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ]
+  ],
+  "legacy_uid": "7eba6375-b95c-9862-83a2-549507519c76",
+  "instructors": {
+    "content": [
+      "91e83e30-ad69-6d62-b163-9b0bb1e802ad"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "47abe09f-d375-913b-9636-aa3305aa092a",
+    "website": "15-818-pricing-spring-2010"
+  },
+  "course_title": "Pricing",
+  "course_description": "This course is designed to teach students how to price goods and services by providing a framework for understanding pricing strategies and tactics. Topics covered include economic value analysis, price elasticities, price customization, pricing complementary products, pricing in platform markets and anticipating competitive price responses.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.818",
+  "course_image_thumbnail": {
+    "content": "f0bfe369-0844-6e0b-3772-cfa434707bef",
+    "website": "15-818-pricing-spring-2010"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Projects",
+    "Written Assignments"
+  ],
+  "site_uid": "ac7efeed-5fc4-4c4c-b37e-41ea49ad1b4f",
+  "title": "Course Metadata"
+}

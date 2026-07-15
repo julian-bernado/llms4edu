@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business"
+    ],
+    [
+      "Mathematics"
+    ],
+    [
+      "Social Science"
+    ]
+  ],
+  "legacy_uid": "b12ebe0a-489d-35cd-9482-b0c604363ab9",
+  "instructors": {
+    "content": [
+      "284bc262-a1df-8a5b-6f48-64f0ae21244f",
+      "37354758-4b05-1628-8a4f-d370c0926baa",
+      "9b21ec38-d081-198b-1944-bfc470e637fc",
+      "70dea363-141a-e2a7-97d3-a7dc46d1962d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "829292a0-a3d3-86fa-f7dc-e7250049abd1",
+    "website": "15-761-introduction-to-operations-management-spring-2013"
+  },
+  "course_title": "Introduction to Operations Management",
+  "course_description": "This course provides students with concepts, techniques and tools to design, analyze, and improve core operational capabilities, and apply them to a broad range of application domains and industries. It emphasizes the effect of uncertainty in decision-making, as well as the interplay between high-level financial objectives and operational capabilities. Topics covered include production control, risk pooling, quality management, process design, and revenue management. Also included are case studies, guest lectures, and simulation games which demonstrate central concepts.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.761",
+  "course_image_thumbnail": {
+    "content": "fa222486-cf6f-3d1c-82dd-629bc63de31c",
+    "website": "15-761-introduction-to-operations-management-spring-2013"
+  },
+  "learning_resource_types": [],
+  "site_uid": "e587189c-4781-49fc-a773-889ad9f67c70",
+  "title": "Course Metadata"
+}

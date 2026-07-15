@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Innovation"
+    ]
+  ],
+  "legacy_uid": "82940c2b-6730-0508-b99b-04657e4e8c29",
+  "instructors": {
+    "content": [
+      "4ffc0743-427e-792d-9d82-c020ed19b7ca"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8c5e6f06-57eb-94af-0275-39b8f47ba72a",
+    "website": "15-320-strategic-organizational-design-spring-2011"
+  },
+  "course_title": "Strategic Organizational Design",
+  "course_description": "_15.320 Strategic Organizational Design_ focuses on effective organizational design in both traditional and innovative organizations, with special emphasis on innovative organizational forms that can provide strategic advantage. Topics include when to use functional, divisional, or matrix organizations, how IT creates new organizational possibilities, and examples of innovative organizational possibilities, such as democratic decision-making, crowd-based organizations, internal resource markets, and other forms of collective intelligence. Team projects include inventing new possibilities for real organizations.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.320",
+  "course_image_thumbnail": {
+    "content": "3371794c-7d71-5394-587e-ffcd0f787175",
+    "website": "15-320-strategic-organizational-design-spring-2011"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "c469c7d3-b1c1-4a3a-9aa2-77b48316e4f4",
+  "title": "Course Metadata"
+}

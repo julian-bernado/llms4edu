@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ]
+  ],
+  "legacy_uid": "a3bde9ae-7368-df98-dcb4-5df4f6297a51",
+  "instructors": {
+    "content": [
+      "46f7f667-3c6a-590e-2a93-addf2eafda73"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ee1d940f-9656-f490-4a48-0cc98618a09d",
+    "website": "18-013a-calculus-with-applications-spring-2005"
+  },
+  "course_title": "Calculus with Applications",
+  "course_description": "This is an undergraduate course on differential calculus in one and several dimensions. It is intended as a one and a half term course in calculus for students who have studied calculus in high school. The format allows it to be entirely self contained, so that it is possible to follow it without any background in calculus.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.013A",
+  "course_image_thumbnail": {
+    "content": "68c8f733-3154-ff7b-af0b-366358dd2c51",
+    "website": "18-013a-calculus-with-applications-spring-2005"
+  },
+  "learning_resource_types": [
+    "Simulations",
+    "Online Textbook"
+  ],
+  "site_uid": "7880c6a9-0c99-49ad-a599-8022e3ce3ff5",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ]
+  ],
+  "legacy_uid": "81548aae-6b05-f3e3-2eba-645dbb4c88ca",
+  "instructors": {
+    "content": [
+      "d33cd36f-7f55-43bb-f48e-6282b7f8b5e0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "cc02626b-6e23-3fba-160a-bb49b0517a18",
+    "website": "14-42-environmental-policy-and-economics-spring-2011"
+  },
+  "course_title": "Environmental Policy and Economics",
+  "course_description": "This course explores the proper role of government in the regulation of the environment. It will help students develop the tools to estimate the costs and benefits of environmental regulations. These tools will be used to evaluate a series of current policy questions, including: Should air and water pollution regulations be tightened or loosened? What are the costs of climate change in the U.S. and abroad? Is there a \"Race to the Bottom\" in environmental regulation? What is \"sustainable development\"? How do environmental problems differ in developing countries? Are we running out of oil and other natural resources? Should we be more energy efficient? To gain real world experience, the course is scheduled to include a visit to the MIT cogeneration plant. We will also do an in-class simulation of an air pollution emissions market.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "14.420",
+  "primary_course_number": "14.42",
+  "course_image_thumbnail": {
+    "content": "b2e370dc-df60-8d15-30bb-afe1d70c1565",
+    "website": "14-42-environmental-policy-and-economics-spring-2011"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "3504e715-1c6c-4955-84a8-0494235d1029",
+  "title": "Course Metadata"
+}

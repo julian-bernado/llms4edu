@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Social Science",
+      "Legal Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ]
+  ],
+  "legacy_uid": "64c08264-2044-26de-18f8-2e64c22237e3",
+  "instructors": {
+    "content": [
+      "769b3130-7fc3-cc53-4575-459a81e12aed",
+      "f9f0205b-7ba5-5dee-11e8-f07051fe3205"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "339a5a3a-fd29-bd75-cf5f-5229d61319d5",
+    "website": "15-628j-patents-copyrights-and-the-law-of-intellectual-property-spring-2013"
+  },
+  "course_title": "Patents, Copyrights, and the Law of Intellectual Property",
+  "course_description": "This course is an intensive introduction to the U.S. law of intellectual property with major emphasis on patents, including what can be patented, the process of patent application, and the remedies for patent infringement.\n",
+  "department_numbers": [
+    "15",
+    "6"
+  ],
+  "extra_course_numbers": "6.903J",
+  "primary_course_number": "15.628J",
+  "course_image_thumbnail": {
+    "content": "dacdeb12-7078-3b34-1fd5-0625270760ca",
+    "website": "15-628j-patents-copyrights-and-the-law-of-intellectual-property-spring-2013"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "0be72129-b12e-4bb5-bf1c-024d7691ee28",
+  "title": "Course Metadata"
+}

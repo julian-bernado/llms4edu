@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ]
+  ],
+  "legacy_uid": "446d428b-5d51-ee4f-5f0a-77cbb8ee3086",
+  "instructors": {
+    "content": [
+      "bb9d4273-bbbb-62f6-d62c-7f020d776ba1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b097c95c-a6e3-dbf3-714c-c8bceb594396",
+    "website": "18-04-complex-variables-with-applications-spring-2018"
+  },
+  "course_title": "Complex Variables with Applications ",
+  "course_description": "Complex analysis is a basic tool with a great many practical applications to the solution of physical problems. It revolves around complex analytic functions\u2014functions that have a complex derivative. Unlike calculus using real variables, the mere existence of a complex derivative has strong implications for the properties of the function. Applications reviewed in this class include harmonic functions, two dimensional fluid flow, easy methods for computing (seemingly) hard integrals, Laplace transforms, and Fourier transforms with applications to engineering and physics.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.04",
+  "course_image_thumbnail": {
+    "content": "78abdad0-6ee4-6628-98ff-2493e0bce191",
+    "website": "18-04-complex-variables-with-applications-spring-2018"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "2f8d5de4-ab84-437d-9f5a-e4e4ae9c8caf",
+  "title": "Course Metadata"
+}

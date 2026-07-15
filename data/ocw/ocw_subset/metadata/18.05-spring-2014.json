@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "e5609df4-43ee-617e-ddfe-45413f3d7c5a",
+  "instructors": {
+    "content": [
+      "bb9d4273-bbbb-62f6-d62c-7f020d776ba1",
+      "6a43c046-59ff-ad55-f2ff-adebd80d21d8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c16c76a2-78bc-037b-6226-b880e87201b4",
+    "website": "18-05-introduction-to-probability-and-statistics-spring-2014"
+  },
+  "course_title": "Introduction to Probability and Statistics",
+  "course_description": "This course provides an elementary introduction to probability and statistics with applications. Topics include: basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.\n\nThe Spring 2014 version of this subject employed the residential MITx system, which enables on-campus subjects to provide MIT students with learning and assessment tools such as online problem sets, lecture videos, reading questions, pre-lecture questions, problem set assistance, tutorial videos, exam review content, and even online exams.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.05",
+  "course_image_thumbnail": {
+    "content": "3d9d34ea-049f-2ce8-ac14-bb1d7a4f9e23",
+    "website": "18-05-introduction-to-probability-and-statistics-spring-2014"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Lecture Videos"
+  ],
+  "site_uid": "fe78b94b-dc98-4449-bdce-5f0f2a65dc98",
+  "title": "Course Metadata"
+}

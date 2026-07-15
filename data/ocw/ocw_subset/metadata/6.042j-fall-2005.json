@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "309583e4-958a-4841-a00c-bc36e50a4421",
+  "instructors": {
+    "content": [
+      "5599f812-4e07-a612-d8a6-f8a59a5d81d3",
+      "98ac3637-077b-4114-a6e7-bc8eb998e2e3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2c121871-3925-2b95-b369-30712f616406",
+    "website": "6-042j-mathematics-for-computer-science-fall-2005"
+  },
+  "course_title": "Mathematics for Computer Science",
+  "course_description": "This is an introductory course in Discrete Mathematics oriented toward Computer Science and Engineering. The course divides roughly into thirds:\n\n1.  Fundamental Concepts of Mathematics: Definitions, Proofs, Sets, Functions, Relations\n2.  Discrete Structures: Modular Arithmetic, Graphs, State Machines, Counting\n3.  Discrete Probability Theory\n\nA version of this course from a\u00a0previous term\u00a0was also taught as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma/) (SMA) programme as course number SMA 5512 (Mathematics for Computer Science).\n",
+  "department_numbers": [
+    "6",
+    "18"
+  ],
+  "extra_course_numbers": "18.062J",
+  "primary_course_number": "6.042J",
+  "course_image_thumbnail": {
+    "content": "a426d568-60e2-a6d9-1734-357313d23396",
+    "website": "6-042j-mathematics-for-computer-science-fall-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "4139f8ea-c882-485b-b6af-30470609b632",
+  "title": "Course Metadata"
+}

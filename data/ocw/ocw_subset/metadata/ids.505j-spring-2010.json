@@ -1,0 +1,62 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Electricity"
+    ],
+    [
+      "Energy",
+      "Renewables"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ]
+  ],
+  "legacy_uid": "d4251481-08ed-91aa-0099-afc24e95b25a",
+  "instructors": {
+    "content": [
+      "12fdf53f-4f4a-bb29-9726-6fa1b4e15ef8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c7a7c58a-4c93-0f5a-b008-559fb1fa4002",
+    "website": "ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010"
+  },
+  "course_title": "Engineering, Economics and Regulation of the Electric Power Sector",
+  "course_description": "The course presents an in-depth interdisciplinary perspective of electric power systems, with regulation providing the link among the engineering, economic, legal and environmental viewpoints. Generation dispatch, demand response, optimal network flows, risk allocation, reliability of service, renewable energy sources, ancillary services, tariff design, distributed generation, rural electrification, environmental impacts and strategic sustainability issues will be among the topics addressed under both traditional and competitive regulatory frameworks.\n",
+  "department_numbers": [
+    "IDS",
+    "6",
+    "15",
+    "ESD"
+  ],
+  "extra_course_numbers": "6.695,15.032J,ESD.162,6.974,IDS.505J (formerly ESD.934)",
+  "primary_course_number": "IDS.505J",
+  "course_image_thumbnail": {
+    "content": "10c03937-7977-e24c-9ae0-ff0880b7382e",
+    "website": "ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments"
+  ],
+  "site_uid": "80baf2da-891d-45b1-98b4-889dfa13a7d5",
+  "title": "Course Metadata"
+}

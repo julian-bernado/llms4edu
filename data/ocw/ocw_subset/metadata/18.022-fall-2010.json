@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "0f3aca22-f0ec-805a-61b0-1494d79e0c1e",
+  "instructors": {
+    "content": [
+      "2c800e94-03c2-0bc5-8700-99bee86361d1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b1dae2b3-c251-46b4-4cb8-905469aeaba4",
+    "website": "18-022-calculus-of-several-variables-fall-2010"
+  },
+  "course_title": "Calculus of Several Variables",
+  "course_description": "This is a variation on 18.02 Multivariable Calculus. It covers the same topics as in 18.02, but with more focus on mathematical concepts.\n##### Acknowledgement\n\nProf. McKernan would like to acknowledge the contributions of Lars Hesselholt to the development of this course.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.022",
+  "course_image_thumbnail": {
+    "content": "221ef5f8-9e2e-f11b-39d2-da95011faa69",
+    "website": "18-022-calculus-of-several-variables-fall-2010"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "c51892d2-39c9-4bb7-960a-15a53622a5f9",
+  "title": "Course Metadata"
+}

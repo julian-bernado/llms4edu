@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Computational Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ]
+  ],
+  "legacy_uid": "a62705d1-9a98-54f7-44ab-5c9be191fe24",
+  "instructors": {
+    "content": [
+      "c7a64ef7-8666-7a77-2789-fbdb59acd101",
+      "066f6f27-3ec1-91eb-9a42-75f17a668893",
+      "93756d5f-0d90-ab43-1fc0-3270e430cb1f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3fd2ad65-6393-a332-6bd1-68604c7ee4f9",
+    "website": "7-91j-foundations-of-computational-and-systems-biology-spring-2014"
+  },
+  "course_title": "Foundations of Computational and Systems Biology",
+  "course_description": "This course is an introduction to computational biology emphasizing the fundamentals of nucleic acid and protein sequence and structural analysis; it also includes an introduction to the analysis of complex biological systems. Topics covered in the course include principles and methods used for sequence alignment, motif finding, structural modeling, structure prediction and network modeling, as well as currently emerging research areas.\n",
+  "department_numbers": [
+    "7",
+    "20",
+    "6",
+    "HST"
+  ],
+  "extra_course_numbers": "20.490J,20.390J,7.36J,6.802J,6.874J,HST.506J",
+  "primary_course_number": "7.91J",
+  "course_image_thumbnail": {
+    "content": "d7675e79-4bed-687c-efc1-0e98c202e1ba",
+    "website": "7-91j-foundations-of-computational-and-systems-biology-spring-2014"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Projects",
+    "Programming Assignments with Examples",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "0bbd97a2-c3ff-4872-9d75-430420a08062",
+  "title": "Course Metadata"
+}

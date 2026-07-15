@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ]
+  ],
+  "legacy_uid": "93e712eb-9771-73ec-5a28-bdcd1c8e19e7",
+  "instructors": {
+    "content": [
+      "d7d851c4-00a9-b5d5-cd43-6265fe7c68f2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ef5a9d2f-1b37-ef4b-06fa-51af41dab537",
+    "website": "6-012-microelectronic-devices-and-circuits-fall-2009"
+  },
+  "course_title": "Microelectronic Devices and Circuits",
+  "course_description": "6.012 is the header course for the department's \"Devices, Circuits and Systems\" concentration. The topics covered include modeling of microelectronic devices, basic microelectronic circuit analysis and design, physical electronics of semiconductor junction and MOS devices, relation of electrical behavior to internal physical processes, development of circuit models, and understanding the uses and limitations of various models. The course uses incremental and large-signal techniques to analyze and design bipolar and field effect transistor circuits, with examples chosen from digital circuits, single-ended and differential linear amplifiers, and other integrated circuits.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.012",
+  "course_image_thumbnail": {
+    "content": "31a69a3f-0278-991a-58c7-3a50df467742",
+    "website": "6-012-microelectronic-devices-and-circuits-fall-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Projects",
+    "Design Assignments"
+  ],
+  "site_uid": "60739816-6f55-4046-ad97-df8933f4e806",
+  "title": "Course Metadata"
+}

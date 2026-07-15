@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Cryptography"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "d6aa0e24-eec2-1b2d-3204-32b6fead1550",
+  "instructors": {
+    "content": [
+      "4265a55d-6ba8-fde8-eb63-d5d9f8a30111"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "248aff97-eaea-32d0-7c0b-4d3a3f543438",
+    "website": "6-045j-automata-computability-and-complexity-spring-2011"
+  },
+  "course_title": "Automata, Computability, and Complexity",
+  "course_description": "This course provides a challenging introduction to some of the central ideas of theoretical computer science. Beginning in antiquity, the course will progress through finite automata, circuits and decision trees, Turing machines and computability, efficient algorithms and reducibility, the P versus NP problem, NP-completeness, the power of randomness, cryptography and one-way functions, computational learning theory, and quantum computing. It examines the classes of problems that can and cannot be solved by various kinds of machines. It tries to explain the key differences between computational models that affect their power.\n",
+  "department_numbers": [
+    "6",
+    "18"
+  ],
+  "extra_course_numbers": "18.400J",
+  "primary_course_number": "6.045J",
+  "course_image_thumbnail": {
+    "content": "636266cc-fbc9-53bd-fb85-4ffb79a465f2",
+    "website": "6-045j-automata-computability-and-complexity-spring-2011"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "56609639-7c0c-4257-ba8e-cdef23367ae7",
+  "title": "Course Metadata"
+}

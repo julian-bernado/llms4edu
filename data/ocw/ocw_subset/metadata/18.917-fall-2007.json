@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "legacy_uid": "261e3738-4641-52d5-9512-a18c5ccdd194",
+  "instructors": {
+    "content": [
+      "e90a7ed9-d99b-fe38-a149-aad0ca5151a1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "974c53d1-71e3-5a7e-4d95-dacbf1e23cc3",
+    "website": "18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007"
+  },
+  "course_title": "Topics in Algebraic Topology: The Sullivan Conjecture",
+  "course_description": "The goal of this course is to describe some of the tools which enter into the proof of Sullivan's conjecture.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.917",
+  "course_image_thumbnail": {
+    "content": "e3608af3-51f2-96de-35fe-3dc859cf0807",
+    "website": "18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "5128cb9b-4276-468d-a02d-61b148851b77",
+  "title": "Course Metadata"
+}

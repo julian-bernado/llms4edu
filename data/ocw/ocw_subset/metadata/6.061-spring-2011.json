@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electric Power"
+    ]
+  ],
+  "legacy_uid": "c634df69-4409-0bab-5241-9a0ed7d3302c",
+  "instructors": {
+    "content": [
+      "60eba061-f401-9469-89e7-2cb0d9cfb93b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fd2e7bd3-524b-c923-062e-d56778235d42",
+    "website": "6-061-introduction-to-electric-power-systems-spring-2011"
+  },
+  "course_title": "Introduction to Electric Power Systems",
+  "course_description": "This course is an introductory subject in the field of electric power systems and electrical to mechanical energy conversion. Electric power has become increasingly important as a way of transmitting and transforming energy in industrial, military and transportation uses. Electric power systems are also at the heart of alternative energy systems, including wind and solar electric, geothermal and small scale hydroelectric generation.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "6.690",
+  "primary_course_number": "6.061",
+  "course_image_thumbnail": {
+    "content": "9d5daeba-2601-7866-2e54-12125b03e2b4",
+    "website": "6-061-introduction-to-electric-power-systems-spring-2011"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Online Textbook"
+  ],
+  "site_uid": "ef956c05-cc0e-400f-8c54-5ec46e0ab7a6",
+  "title": "Course Metadata"
+}

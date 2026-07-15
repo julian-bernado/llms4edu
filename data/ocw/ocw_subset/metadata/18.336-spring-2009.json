@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Numerical Simulation"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ]
+  ],
+  "legacy_uid": "493b816d-3aa2-80d8-e74c-2412ae677713",
+  "instructors": {
+    "content": [
+      "7160fedc-2db6-3e11-4a44-3a4e651c96b0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5acb453a-d51b-f834-e583-0f6727878475",
+    "website": "18-336-numerical-methods-for-partial-differential-equations-spring-2009"
+  },
+  "course_title": "Numerical Methods for Partial Differential Equations",
+  "course_description": "This graduate-level course is an advanced introduction to applications and theory of numerical methods for solution of differential equations. In particular, the course focuses on physically-arising partial differential equations, with emphasis on the fundamental ideas underlying various methods.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.336",
+  "course_image_thumbnail": {
+    "content": "d5153aa8-89db-35eb-ea8f-c6a66edc7180",
+    "website": "18-336-numerical-methods-for-partial-differential-equations-spring-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Projects with Examples",
+    "Lecture Notes"
+  ],
+  "site_uid": "b0171a94-6a9c-4194-8dc0-445d59c71981",
+  "title": "Course Metadata"
+}

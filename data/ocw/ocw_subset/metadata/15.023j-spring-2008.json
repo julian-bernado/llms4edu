@@ -1,0 +1,66 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Energy",
+      "Climate"
+    ]
+  ],
+  "legacy_uid": "b591364d-9e20-a41a-c997-f0df660b0024",
+  "instructors": {
+    "content": [
+      "899e124d-92e5-412c-213a-d96569bf60fc",
+      "482254df-9f66-bf7d-887e-87ce46315835",
+      "8f7348d0-25e8-7c4a-ebf7-edf689637753",
+      "b531928d-7a85-1672-bb22-f0ce26134f07",
+      "8044f117-ed9c-452b-77a7-8986c6c3c6d5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "53578b97-7200-8355-49f5-24390101a3de",
+    "website": "15-023j-global-climate-change-economics-science-and-policy-spring-2008"
+  },
+  "course_title": "Global Climate Change: Economics, Science, and Policy",
+  "course_description": "This class introduces scientific, economic, and ecological issues underlying the threat of global climate change, and the institutions engaged in negotiating an international response. It also develops an integrated approach to analysis of climate change processes, and assessment of proposed policy measures, drawing on research and model development within the MIT Joint Program on the Science and Policy of Global Change.\n",
+  "department_numbers": [
+    "15",
+    "12",
+    "ESD"
+  ],
+  "extra_course_numbers": "12.848J,ESD.128J",
+  "primary_course_number": "15.023J",
+  "course_image_thumbnail": {
+    "content": "2a93f838-5c08-f50b-efae-ebc15177ac1b",
+    "website": "15-023j-global-climate-change-economics-science-and-policy-spring-2008"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "5b84dca7-2a27-4c60-8f6c-275df057be88",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Technology"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Engineering",
+      "Nanotechnology"
+    ]
+  ],
+  "legacy_uid": "211ad13d-bf1a-1357-5ecf-84d7fadc9a0e",
+  "instructors": {
+    "content": [
+      "fb1a6954-0f30-5a59-974f-38230468a208"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5729e958-bbba-f544-31c7-81cbaba74d4e",
+    "website": "6-701-introduction-to-nanoelectronics-spring-2010"
+  },
+  "course_title": "Introduction to Nanoelectronics",
+  "course_description": "Traditionally, progress in electronics has been driven by miniaturization. But as electronic devices approach the molecular scale, classical models for device behavior must be abandoned. To prepare for the next generation of electronic devices, this class teaches the theory of current, voltage and resistance from atoms up. To describe electrons at the nanoscale, we will begin with an introduction to the principles of quantum mechanics, including quantization, the wave-particle duality, wavefunctions and Schr\u00f6dinger's equation. Then we will consider the electronic properties of molecules, carbon nanotubes and crystals, including energy band formation and the origin of metals, insulators and semiconductors. Electron conduction will be taught beginning with ballistic transport and concluding with a derivation of Ohm's law. We will then compare ballistic to bulk MOSFETs. The class will conclude with a discussion of possible fundamental limits to computation.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "6.719",
+  "primary_course_number": "6.701",
+  "course_image_thumbnail": {
+    "content": "cad01692-863b-2791-08db-35d5ff920a42",
+    "website": "6-701-introduction-to-nanoelectronics-spring-2010"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Online Textbook"
+  ],
+  "site_uid": "210f56ba-04a2-4c4d-a4c5-f3e75c9018e5",
+  "title": "Course Metadata"
+}

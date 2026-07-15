@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "legacy_uid": "754da7ed-9969-c28b-37a2-2d66d1bcd574",
+  "instructors": {
+    "content": [
+      "33e4f5a0-95f2-fd1d-1b75-80717e16d3e0",
+      "15d1367e-048a-c7ec-bca7-663806f9679a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d8a8e817-2f24-9264-9d68-e37c1b102bb0",
+    "website": "6-005-elements-of-software-construction-fall-2008"
+  },
+  "course_title": "Elements of Software Construction",
+  "course_description": "This course provides an introduction to the fundamental principles and techniques of software development that have greatest impact on practice. Topics include capturing the essence of a problem by recognizing and inventing suitable abstractions; key paradigms, including state machines, functional programming, and object-oriented programming; use of design patterns to bridge gap between models and code; the role of interfaces and specification in achieving modularity and decoupling; reasoning about code using invariants; testing, test-case generation and coverage; and essentials of programming with objects, functions, and abstract types. The course includes exercises in modeling, design, implementation and reasoning.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.005",
+  "course_image_thumbnail": {
+    "content": "0eef5151-9868-bfad-5d3f-7f8bf534171d",
+    "website": "6-005-elements-of-software-construction-fall-2008"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Projects",
+    "Programming Assignments with Examples"
+  ],
+  "site_uid": "ba4657d9-3560-4320-99c2-81385038a9bb",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,44 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ]
+  ],
+  "legacy_uid": "d265b714-20ed-91bd-1cb7-773da4116512",
+  "instructors": {
+    "content": [
+      "177bc5f7-fe92-871d-20a4-0d68f78d1020"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c2d446bf-61dc-64e3-6d45-cf975044286f",
+    "website": "14-33-economics-research-and-communication-spring-2012"
+  },
+  "course_title": "Economics Research and Communication",
+  "course_description": "This course will guide students through the process of forming economic hypotheses, gathering the appropriate data, analyzing them, and effectively communicating their results.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.33",
+  "course_image_thumbnail": {
+    "content": "f3489d62-d5aa-c441-fe35-6ba76ed697c7",
+    "website": "14-33-economics-research-and-communication-spring-2012"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "62ce7788-8ea6-46df-bc9f-5236192c74c3",
+  "title": "Course Metadata"
+}

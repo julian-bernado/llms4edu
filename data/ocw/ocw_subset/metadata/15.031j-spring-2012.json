@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Energy"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Economics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ]
+  ],
+  "legacy_uid": "df959e63-4c2b-e876-9892-7a84f79e7ca5",
+  "instructors": {
+    "content": [
+      "3c912120-f57d-7cef-288b-f13e6006141a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "eab08f39-ff3c-71f0-1d8a-97fd0d2de47a",
+    "website": "15-031j-energy-decisions-markets-and-policies-spring-2012"
+  },
+  "course_title": "Energy Decisions, Markets, and Policies",
+  "course_description": "This course examines the choices and constraints regarding sources and uses of energy by households, firms, and governments through a number of frameworks to describe and explain behavior at various levels of aggregation. Examples include a wide range of countries, scope, settings, and analytical approaches.\n\nThis course is one of many [OCW Energy Courses](/courses/energy-courses/), and it is a core subject in MIT's undergraduate [Energy Studies Minor](http://mitei.mit.edu/education/energy-minor/). This Institute-wide program complements the deep expertise obtained in any major with a broad understanding of the interlinked realms of science, technology, and social sciences as they relate to energy and associated environmental challenges.\n",
+  "department_numbers": [
+    "15",
+    "14",
+    "21A",
+    "11"
+  ],
+  "extra_course_numbers": "14.43J,21A.341J,11.161J",
+  "primary_course_number": "15.031J",
+  "course_image_thumbnail": {
+    "content": "50de27a6-bab1-142c-c922-ea3e20d48c5d",
+    "website": "15-031j-energy-decisions-markets-and-policies-spring-2012"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "7362319a-f81f-4b7d-99f3-0695ae6730dd",
+  "title": "Course Metadata"
+}

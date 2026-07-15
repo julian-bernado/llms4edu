@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ]
+  ],
+  "legacy_uid": "9f0f2d14-19d2-17ee-5bb8-549e988dd6bb",
+  "instructors": {
+    "content": [
+      "cc089706-f9e4-344e-b797-712067c6b377"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e944febd-92d9-2de1-7662-2eafcc520526",
+    "website": "15-281-advanced-communication-for-leaders-spring-2016"
+  },
+  "course_title": "Advanced Communication for Leaders",
+  "course_description": "This course introduces interactive oral and interpersonal communication skills critical to leaders, including strategies for presenting to a hostile audience, running effective and productive meetings, active listening, and contributing to group decision-making. There are team-run classes on chosen communication topics, and an individual analysis of leadership qualities and characteristics. Students deliver an oral presentation and an executive summary, both aimed at a business audience.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.281",
+  "course_image_thumbnail": {
+    "content": "a39a3b21-044c-5020-1a8a-9d0a777692f7",
+    "website": "15-281-advanced-communication-for-leaders-spring-2016"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments"
+  ],
+  "site_uid": "3d4fced3-ffc2-4003-93a7-de350b076b03",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ]
+  ],
+  "legacy_uid": "922fbc13-56cc-9430-c001-c928c4d41025",
+  "instructors": {
+    "content": [
+      "90ed1bca-4638-3198-4588-2a4923cfc575"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1e55ea22-b365-1334-9f52-225aa9ba87e9",
+    "website": "14-01-principles-of-microeconomics-fall-2018"
+  },
+  "course_title": "Principles of Microeconomics",
+  "course_description": "This introductory undergraduate course covers the fundamentals of microeconomics. Topics include supply and demand, market equilibrium, consumer theory, production and the behavior of firms, monopoly, oligopoly, welfare economics, public goods, and externalities.\u00a0\n\nChalk Radio Podcast\n-------------------\n\nProf. Jonathan Gruber was featured in an episode of OpenCourseWare's podcast, [Chalk Radio](https://chalk-radio.simplecast.com/). In the episode \"Thinking Like an Economist,\" Prof. Gruber talks about how he engages students in 14.01 with accessible real world examples. Listen to the episode on [Apple Podcasts](https://podcasts.apple.com/us/podcast/chalk-radio/id1497545103).\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.01",
+  "course_image_thumbnail": {
+    "content": "17a5cdfd-502f-d717-25ee-d44532477a0a",
+    "website": "14-01-principles-of-microeconomics-fall-2018"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "f78e9800-a007-49e5-9276-478f4464687c",
+  "title": "Course Metadata"
+}

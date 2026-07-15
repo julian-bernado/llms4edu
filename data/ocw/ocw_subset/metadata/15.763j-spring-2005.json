@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Business",
+      "Supply Chain Management"
+    ]
+  ],
+  "legacy_uid": "1d5d59bd-fcab-97e6-f834-0abb264d3ef3",
+  "instructors": {
+    "content": [
+      "eb866abb-bc92-a112-750a-7afe191d6380",
+      "f05c0cd6-fbb5-080c-3a01-a4c4754ee9be"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1a795132-8ea9-4209-e663-d0aab03d627e",
+    "website": "15-763j-manufacturing-system-and-supply-chain-design-spring-2005"
+  },
+  "course_title": "Manufacturing System and Supply Chain Design",
+  "course_description": "15.763J focuses on decision making for system design, as it arises in manufacturing systems and supply chains. Students are exposed to frameworks and models for structuring the key issues and trade-offs. The class presents and discusses new opportunities, issues and concepts introduced by the internet and e-commerce. It also introduces various models, methods and software tools for logistics network design, capacity planning and flexibility, make-buy, and integration with product development. Industry applications and cases illustrate concepts and challenges. The class is recommended for anyone concentrating in Operations Management, and is a second half-term subject.\n",
+  "department_numbers": [
+    "15",
+    "1",
+    "IDS"
+  ],
+  "extra_course_numbers": "1.274J,IDS.736J (formerly ESD.268J)",
+  "primary_course_number": "15.763J",
+  "course_image_thumbnail": {
+    "content": "7d8b33cd-4d25-0ee3-fe1c-c163483683cb",
+    "website": "15-763j-manufacturing-system-and-supply-chain-design-spring-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "84c5b055-d91e-4a8d-baf6-fe7344b3f918",
+  "title": "Course Metadata"
+}

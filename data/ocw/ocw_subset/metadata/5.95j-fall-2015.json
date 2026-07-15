@@ -1,0 +1,63 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering"
+    ],
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    [
+      "Teaching and Education",
+      "Education Policy"
+    ],
+    [
+      "Teaching and Education",
+      "Educational Technology"
+    ],
+    [
+      "Teaching and Education",
+      "Higher Education"
+    ]
+  ],
+  "legacy_uid": "8567c6d2-6924-e53a-e927-8a51c9468ff7",
+  "instructors": {
+    "content": [
+      "9591950e-6f12-ffc0-c8e4-8c0a393dc978"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "680c27ff-aa13-4659-8119-362072b1d5df",
+    "website": "5-95j-teaching-college-level-science-and-engineering-fall-2015"
+  },
+  "course_title": "Teaching College-Level Science and Engineering",
+  "course_description": "This participatory seminar focuses on the knowledge and skills necessary for teaching science and engineering in higher education. It is designed for graduate students interested in an academic career, and anyone else interested in teaching. Students research and present a relevant topic of particular interest. The subject is appropriate for both novices and those with teaching experience.\n",
+  "department_numbers": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "18",
+    "1",
+    "2"
+  ],
+  "extra_course_numbers": "6.982J,7.59J,8.395J,18.094J,1.95J,2.978J",
+  "primary_course_number": "5.95J",
+  "course_image_thumbnail": {
+    "content": "5d1b7431-9b3d-c298-4244-dda13dd02f66",
+    "website": "5-95j-teaching-college-level-science-and-engineering-fall-2015"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "10ef03f4-b70d-4514-85bd-42b9e638a37b",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "International Development"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Developmental Economics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "legacy_uid": "b5d8f426-6899-8345-2097-ad1ea5bcb8e4",
+  "instructors": {
+    "content": [
+      "6bd4d78d-e43c-92e0-857f-5d594fb6ea4f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a32a113e-9f29-bef6-e83a-ca4d8bd9bdba",
+    "website": "14-74-foundations-of-development-policy-spring-2009"
+  },
+  "course_title": "Foundations of Development Policy",
+  "course_description": "This course explores the foundations of policy making in developing countries. The goal is to spell out various policy options and to quantify the trade-offs between them. We will study the different facets of human development: education, health, gender, the family, land relations, risk, informal and formal norms and institutions. This is an empirical class. For each topic, we will study several concrete examples chosen from around the world. While studying each of these topics, we will ask: What determines the decisions of poor households in developing countries? What constraints are they subject to? Is there a scope for policy (by government, international organizations, or non-governmental organizations (NGOs))? What policies have been tried out? Have they been successful?\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.74",
+  "course_image_thumbnail": {
+    "content": "b3df4522-b5b9-6359-acdd-527e405fe8c7",
+    "website": "14-74-foundations-of-development-policy-spring-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Presentation Assignments"
+  ],
+  "site_uid": "8ac95efc-dda3-4df9-b91a-98f98da7879d",
+  "title": "Course Metadata"
+}

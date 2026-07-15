@@ -1,0 +1,42 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ]
+  ],
+  "legacy_uid": "76b0360c-a8fb-acb5-afa1-fadab1ebab55",
+  "instructors": {
+    "content": [
+      "dcdd5fa5-1aa9-1781-6fd1-2c9f28fc3c8f",
+      "84f1c8ea-ca40-29e3-7440-0fb494dcef3e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f5e0524d-1abe-3c1a-7423-51dfa75dba0e",
+    "website": "14-461-advanced-macroeconomics-i-fall-2012"
+  },
+  "course_title": "Advanced Macroeconomics I",
+  "course_description": "14.461 is an advanced course in macroeconomics that seeks to bring students to the research frontier. The course is divided into two sections. The first half is taught by Prof. Iv\u00e1n Werning and covers topics such as how to formulate and solve optimal problems. Students will study fiscal and monetary policy, among other issues. The second half, taught by Prof. George-Marios Angeletos, covers recent work on multiple equilibria, global games, and informational fictions.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.461",
+  "course_image_thumbnail": {
+    "content": "cf38f9e9-de39-2f82-0927-547bf31c52f7",
+    "website": "14-461-advanced-macroeconomics-i-fall-2012"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "f5577e63-a9e8-40f5-868f-5089243e00b2",
+  "title": "Course Metadata"
+}

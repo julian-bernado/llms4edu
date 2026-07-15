@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Entrepreneurship"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Marketing"
+    ]
+  ],
+  "legacy_uid": "e1f24003-45e3-4c76-0947-691fad0277d5",
+  "instructors": {
+    "content": [
+      "765f151b-2e7e-e876-70f7-9f51cc96b357",
+      "de2ab59c-9f49-3a7f-2971-c62d66e74e9d",
+      "91fcb2c9-23fa-a078-d466-ae7c9bc7751d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "58d5f95e-2eb2-8b10-2019-e72b1a55d010",
+    "website": "15-387-entrepreneurial-sales-spring-2015"
+  },
+  "course_title": "Entrepreneurial Sales",
+  "course_description": "This course outlines the practical and tactical ins and outs of how to sell technical products to a sophisticated marketplace. How to build and manage a sales force; building compensation systems for a sales force, assigning territories, resolving disputes, and dealing with channel conflicts. Focus on selling to customers, whether through a direct salesforce, a channel salesforce, or building an OEM relationship.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.387",
+  "course_image_thumbnail": {
+    "content": "24a995bf-a680-a7ed-99ba-d2f9665812e8",
+    "website": "15-387-entrepreneurial-sales-spring-2015"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments",
+    "Media Assignments",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "dc8edf79-35ff-40e4-9f47-442caff6b734",
+  "title": "Course Metadata"
+}

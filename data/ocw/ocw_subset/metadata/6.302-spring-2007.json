@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ]
+  ],
+  "legacy_uid": "d3fd299c-5d9b-a6f8-6784-d4302f233e8c",
+  "instructors": {
+    "content": [
+      "2540e332-fb7c-3c41-dc22-b19ac86c5c44",
+      "0812605e-e78e-7c6f-697a-61ff1e934d91",
+      "c67d7e35-e938-0d98-f391-7c48b893af2c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0b38723b-e176-5ac6-cf36-43e0dfd813f2",
+    "website": "6-302-feedback-systems-spring-2007"
+  },
+  "course_title": "Feedback Systems",
+  "course_description": "This course provides an introduction to the design of feedback systems. Topics covered include: properties and advantages of feedback systems, time-domain and frequency-domain performance measures, stability and degree of stability, root locus method, Nyquist criterion, frequency-domain design, compensation techniques, application to a wide variety of physical systems, internal and external compensation of operational amplifiers, modeling and compensation of power converter systems, and phase lock loops.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.302",
+  "course_image_thumbnail": {
+    "content": "3b81c321-8631-e8bb-d0c7-2d66e3d8e1e6",
+    "website": "6-302-feedback-systems-spring-2007"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams"
+  ],
+  "site_uid": "69285c1f-92ab-41b1-aa00-3dca42f0571a",
+  "title": "Course Metadata"
+}

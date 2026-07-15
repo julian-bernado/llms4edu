@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Business Ethics"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Leadership"
+    ]
+  ],
+  "legacy_uid": "04870379-fc0a-3b88-bfd5-c5cf3c01227d",
+  "instructors": {
+    "content": [
+      "f3b9a464-223d-22c3-ecc3-5c6266639784"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e2206bcc-6110-c397-925c-9581805ad286",
+    "website": "15-665-power-and-negotiation-spring-2014"
+  },
+  "course_title": "Power and Negotiation",
+  "course_description": "This course provides understanding of the theory and processes of negotiation as practiced in a variety of settings. It is designed for relevance to the broad spectrum of bargaining problems faced by the manager and professional. With an emphasis on simulations, exercises, role playing and cases, students are given an opportunity to develop negotiation skills experientially and to understand negotiation in useful analytical frameworks.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.665",
+  "course_image_thumbnail": {
+    "content": "3472a96f-0cd3-0505-a899-2e307f0a1e80",
+    "website": "15-665-power-and-negotiation-spring-2014"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples",
+    "Presentation Assignments"
+  ],
+  "site_uid": "87bd8e8b-a560-465a-be36-3221417fbd16",
+  "title": "Course Metadata"
+}

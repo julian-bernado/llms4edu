@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Health Care Management"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ]
+  ],
+  "legacy_uid": "2297ffc1-cfd1-4d3d-7aa8-2ccffa2f3dee",
+  "instructors": {
+    "content": [
+      "e9f1bf72-c40e-b762-0f5a-6cf11e06d9bd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b505202e-505c-ef4c-e0aa-03880f7cd915",
+    "website": "15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013"
+  },
+  "course_title": "Business Model Innovation: Global Health in Frontier Markets",
+  "course_description": "This course explores successful approaches to delivering healthcare in challenging settings. We analyze organizations to find why some fall short while others grow in size and contribute to the health of the people they serve, and explore promising business models and social enterprise innovations.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.232",
+  "course_image_thumbnail": {
+    "content": "aa03b6fe-8ca9-b259-31bc-54e982925bf2",
+    "website": "15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013"
+  },
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Lecture Notes",
+    "Written Assignments with Examples",
+    "Presentation Assignments"
+  ],
+  "site_uid": "5320e7f8-15c8-45ee-8a39-0621ca40f697",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "3caf857b-c5c2-4953-93d7-61d529a6b62b",
+  "instructors": {
+    "content": [
+      "7e99c171-2da4-1fdc-a984-68ab5291d71d",
+      "583cc582-1f48-236c-af5a-b2f4750fef40"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e51bbed8-57b0-ae65-e753-6f120c1473d9",
+    "website": "18-03-differential-equations-spring-2010"
+  },
+  "course_title": "Differential Equations",
+  "course_description": "Differential Equations are the language in which the laws of nature are expressed. Understanding properties of solutions of differential equations is fundamental to much of contemporary science and engineering. Ordinary differential equations (ODE's) deal with functions of one variable, which can often be thought of as time.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.03",
+  "course_image_thumbnail": {
+    "content": "228c4e2b-e87a-0d24-fec1-0208ddac7f3e",
+    "website": "18-03-differential-equations-spring-2010"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Simulations",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "8727bd33-c3cc-4fca-aee7-87a18051778a",
+  "title": "Course Metadata"
+}

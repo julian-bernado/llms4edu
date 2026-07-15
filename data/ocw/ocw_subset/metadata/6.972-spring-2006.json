@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ]
+  ],
+  "legacy_uid": "548ed14a-d308-3d67-89d6-b76170438050",
+  "instructors": {
+    "content": [
+      "f13c3ceb-bf39-b0bb-6d76-65da4d5d81fe"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "58d50c96-bbb1-89ca-ee7a-357d7537f73c",
+    "website": "6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006"
+  },
+  "course_title": "Algebraic Techniques and Semidefinite Optimization",
+  "course_description": "This research-oriented course will focus on algebraic and computational techniques for optimization problems involving polynomial equations and inequalities with particular emphasis on the connections with semidefinite optimization. The course will develop in a parallel fashion several algebraic and numerical approaches to polynomial systems, with a view towards methods that simultaneously incorporate both elements. We will study both the complex and real cases, developing techniques of general applicability, and stressing convexity-based ideas, complexity results, and efficient implementations. Although we will use examples from several engineering areas, particular emphasis will be given to those arising from systems and control applications.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.972",
+  "course_image_thumbnail": {
+    "content": "1692d19c-750d-aaa8-90ad-3b1cac98b5ec",
+    "website": "6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "97859512-9586-4114-9a77-a2c7506b9346",
+  "title": "Course Metadata"
+}

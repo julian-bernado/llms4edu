@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ]
+  ],
+  "legacy_uid": "334ddfd3-5136-fa9b-4e54-0f1e2bf63cc0",
+  "instructors": {
+    "content": [
+      "b12cf09d-b9c0-3138-5e1b-26e03395d143"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "222f721c-a21f-b802-fd00-fa09e17b7f80",
+    "website": "6-034-artificial-intelligence-fall-2010"
+  },
+  "course_title": "Artificial Intelligence",
+  "course_description": "This course introduces students to the basic knowledge representation, problem solving, and learning methods of artificial intelligence. Upon completion of 6.034, students should be able to develop intelligent systems by assembling solutions to concrete computational problems; understand the role of knowledge representation, problem solving, and learning in intelligent-system engineering; and appreciate the role of problem solving, vision, and language in understanding human intelligence from a computational perspective.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.034",
+  "course_image_thumbnail": {
+    "content": "61a04b68-2eaa-d729-e2b4-94596e0e16ad",
+    "website": "6-034-artificial-intelligence-fall-2010"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Videos",
+    "Recitation Videos",
+    "Programming Assignments"
+  ],
+  "site_uid": "b1fbeba1-9c38-457e-8f4f-ffec5c4e25bd",
+  "title": "Course Metadata"
+}

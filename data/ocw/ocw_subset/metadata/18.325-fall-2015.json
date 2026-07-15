@@ -1,0 +1,45 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ]
+  ],
+  "legacy_uid": "c7726551-caad-fe68-4b55-0a43c448c51f",
+  "instructors": {
+    "content": [
+      "6bd4ab98-c100-d68b-ba75-4178039e2e9e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8962188e-f860-f9e0-0e45-45c619bf788f",
+    "website": "18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015"
+  },
+  "course_title": "Topics in Applied Mathematics: Waves and Imaging",
+  "course_description": "This class covers the mathematics of inverse problems involving waves, with examples taken from reflection seismology, synthetic aperture radar, and computerized tomography.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.325",
+  "course_image_thumbnail": {
+    "content": "3c33e9d8-1cfa-cf3f-1398-3930332dd37f",
+    "website": "18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "b05721ae-1114-42d3-87da-3e0ae69796cb",
+  "title": "Course Metadata"
+}

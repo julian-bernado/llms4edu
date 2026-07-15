@@ -1,0 +1,56 @@
+{
+  "term": "January IAP",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "legacy_uid": "9055002a-47dc-7c96-22db-460adcaacc3c",
+  "instructors": {
+    "content": [
+      "ec7460cc-108e-b200-1adc-06c674b0947a",
+      "f28e2232-3ee9-cd2e-e71f-d9ddb253d915"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "29adf978-91c3-856c-b365-2b9848e93c55",
+    "website": "6-189-multicore-programming-primer-january-iap-2007"
+  },
+  "course_title": "Multicore Programming Primer",
+  "course_description": "The course serves as an introductory course in parallel programming. It offers a series of lectures on parallel programming concepts as well as a group project providing hands-on experience with parallel programming. The students will have the unique opportunity to use the cutting-edge PLAYSTATION 3 development platform as they learn how to design and implement exciting applications for multicore architectures. At the end of the course, students will have an understanding of:\n\n*   Fundamental design philosophies that multicore architectures address.\n*   Parallel programming philosophies and emerging best practices.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month. The course can be tailored to a normal semester time line.\n\nAcknowledgements\n----------------\n\nThe course instructors are extremely grateful to [Sony](http://www.sony.com/), [IBM](http://www.ibm.com/us/), and [Toshiba](http://www.toshiba.com/tai/) for their support.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.189",
+  "course_image_thumbnail": {
+    "content": "ffcaef26-a8e0-8398-2afa-a252d1b630ff",
+    "website": "6-189-multicore-programming-primer-january-iap-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Competition Videos",
+    "Other Video",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "38cc93df-7952-492f-801a-675c1007f542",
+  "title": "Course Metadata"
+}

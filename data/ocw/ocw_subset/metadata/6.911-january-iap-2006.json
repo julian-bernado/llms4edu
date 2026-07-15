@@ -1,0 +1,59 @@
+{
+  "term": "January IAP",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Humanities",
+      "Linguistics",
+      "Phonology"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ]
+  ],
+  "legacy_uid": "13d21a9f-e8f5-6c78-9586-73c29e56cd9c",
+  "instructors": {
+    "content": [
+      "935c62d3-e406-0c7e-c361-71f93f959197",
+      "a42dfeb7-6e09-fe0b-9cc0-b232df89350d",
+      "a31e0609-a0c7-fbf0-e662-80eca85c1c6b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e4ecc122-91e4-9a63-1adb-607b623dc5cf",
+    "website": "6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006"
+  },
+  "course_title": "Transcribing Prosodic Structure of Spoken Utterances with ToBI",
+  "course_description": "This course presents a tutorial on the ToBI (Tones and Break Indices) system, for labelling certain aspects of prosody in Mainstream American English (MAE-ToBI). The course is appropriate for undergrad or grad students with background in linguistics (phonology or phonetics), cognitive psychology (psycholinguistics), speech acoustics or music, who wish to learn about the prosody of speech, i.e. the intonation, rhythm, grouping and prominence patterns of spoken utterances, prosodic differences that signal meaning and phonetic implementation.\n\nPlease submit any feedback about the course content using the [user survey](https://goo.gl/forms/CNZKqMjP760O2t9x1).\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.911",
+  "course_image_thumbnail": {
+    "content": "22e8f9a2-72dd-9704-0bae-58860f58f559",
+    "website": "6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006"
+  },
+  "learning_resource_types": [
+    "Online Textbook",
+    "Lecture Notes",
+    "Activity Assignments"
+  ],
+  "site_uid": "4a8a5a29-0d64-46de-8435-97b5e925c749",
+  "title": "Course Metadata"
+}

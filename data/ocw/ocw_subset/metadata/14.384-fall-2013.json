@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Econometrics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ]
+  ],
+  "legacy_uid": "f2465adf-2d41-758c-03bd-c7b167ada6d9",
+  "instructors": {
+    "content": [
+      "4646b4ec-03cd-10c6-7545-ad8c21b96ad6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e8555999-b1db-782b-11e8-4f95cbcd3c3b",
+    "website": "14-384-time-series-analysis-fall-2013"
+  },
+  "course_title": "Time Series Analysis",
+  "course_description": "The course provides a survey of the theory and application of time series methods in econometrics. Topics covered will include univariate stationary and non-stationary models, vector autoregressions, frequency domain methods, models for estimation and inference in persistent time series, and structural breaks.\n\nWe will cover different methods of estimation and inferences of modern dynamic stochastic general equilibrium models (DSGE): simulated method of moments, Maximum likelihood and Bayesian approach. The empirical applications in the course will be drawn primarily from macroeconomics.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.384",
+  "course_image_thumbnail": {
+    "content": "3619faf1-7cd2-2e92-b5d6-ba0ed7170f6d",
+    "website": "14-384-time-series-analysis-fall-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "332f9deb-c44b-464d-9f7f-e39a7b452063",
+  "title": "Course Metadata"
+}

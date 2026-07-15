@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ]
+  ],
+  "legacy_uid": "5d6ef129-34bc-feb0-35cb-f3cff8ffe933",
+  "instructors": {
+    "content": [
+      "3e4238ff-1b03-66f8-5ad3-2229e76b5092"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3928efab-2538-977d-edfe-a04726a0fd21",
+    "website": "14-451-dynamic-optimization-methods-with-applications-fall-2009"
+  },
+  "course_title": "Dynamic Optimization Methods with Applications",
+  "course_description": "This course focuses on dynamic optimization methods, both in discrete and in continuous time. We approach these problems from a dynamic programming and optimal control perspective. We also study the dynamic systems that come from the solutions to these problems. The course will illustrate how these techniques are useful in various applications, drawing on many economic examples. However, the focus will remain on gaining a general command of the tools so that they can be applied later in other classes.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.451",
+  "course_image_thumbnail": {
+    "content": "dfc9a8ac-cd7e-ae42-0548-948ae17b7076",
+    "website": "14-451-dynamic-optimization-methods-with-applications-fall-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "665a2f00-3735-4acf-9aa0-1ddff14faf51",
+  "title": "Course Metadata"
+}

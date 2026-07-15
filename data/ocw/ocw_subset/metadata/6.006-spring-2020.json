@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ]
+  ],
+  "legacy_uid": "08bc3f3a-9a39-a3e3-f6cd-7fcfb9d8eda8",
+  "instructors": {
+    "content": [
+      "adc586d4-a306-ce04-7a4f-c2ebe1bf1197",
+      "e4387fd8-ea9f-09c4-4d12-78024f30db06",
+      "add0aeaa-24e8-4e00-4bc1-495f885cd5eb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5a62336c-0a97-b276-d614-1b0b7f070b5b",
+    "website": "6-006-introduction-to-algorithms-spring-2020"
+  },
+  "course_title": "Introduction to Algorithms",
+  "course_description": "This course is an introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. It emphasizes the relationship between algorithms and programming and introduces basic performance measures and analysis techniques for these problems.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.006",
+  "course_image_thumbnail": {
+    "content": "89d89284-fa01-5e96-2118-dd6201006c98",
+    "website": "6-006-introduction-to-algorithms-spring-2020"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "569bea40-0b9e-4cde-8c34-497bab16606d",
+  "title": "Course Metadata"
+}

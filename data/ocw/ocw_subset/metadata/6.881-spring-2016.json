@@ -1,0 +1,44 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ]
+  ],
+  "legacy_uid": "b11aa3e3-9bc1-9afe-897c-d0babf7c5595",
+  "instructors": {
+    "content": [
+      "9cfae9fe-39e4-63e9-6225-748a604c4da1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "670790ca-0d5f-bb6e-c680-63b4acca44d7",
+    "website": "6-881-computational-personal-genomics-making-sense-of-complete-genomes-spring-2016"
+  },
+  "course_title": "Computational Personal Genomics: Making Sense of Complete Genomes",
+  "course_description": "With the growing availability and lowering costs of genotyping and personal genome sequencing, the focus has shifted from the ability to obtain the sequence to the ability to make sense of the resulting information. This course is aimed at exploring the computational challenges associated with interpreting how sequence differences between individuals lead to phenotypic differences in gene expression, disease predisposition, or response to treatment.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.881",
+  "course_image_thumbnail": {
+    "content": "724c4df7-8229-6ce1-0a65-5802a08a089c",
+    "website": "6-881-computational-personal-genomics-making-sense-of-complete-genomes-spring-2016"
+  },
+  "learning_resource_types": [],
+  "site_uid": "947ffda6-ac0e-4e1f-9a0a-a820cb6aa7ec",
+  "title": "Course Metadata"
+}

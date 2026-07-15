@@ -1,0 +1,39 @@
+{
+  "term": "Fall",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics"
+    ]
+  ],
+  "legacy_uid": "020f7c8e-b137-e3e8-2af0-c87d9da7224f",
+  "instructors": {
+    "content": [
+      "e7e967ed-94b7-8fd8-0578-c3aba7691859"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5a85691b-3606-0dd9-15db-47941bcc2872",
+    "website": "18-a34-mathematical-problem-solving-putnam-seminar-fall-2018"
+  },
+  "course_title": "Mathematical Problem Solving (Putnam Seminar)",
+  "course_description": "This course is a seminar intended for undergraduate students who enjoy solving challenging mathematical problems, and to prepare them for the Putnam Competition. All students officially registered in the class are required to participate in the [William Lowell Putnam Mathematical Competition](http://math.scu.edu/putnam/).\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.A34",
+  "course_image_thumbnail": {
+    "content": "14d63cee-e10b-2996-2fe5-bc79802c3d16",
+    "website": "18-a34-mathematical-problem-solving-putnam-seminar-fall-2018"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "d0dadd0a-0002-44a7-87ee-db776c8b039c",
+  "title": "Course Metadata"
+}

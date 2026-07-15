@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "6a5215a8-5a50-5e44-56d3-c89b4ae91abb",
+  "instructors": {
+    "content": [
+      "19bff50f-8b71-0063-c889-0a7b7e319e40"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6650116c-d4ad-6939-57f9-71488da42503",
+    "website": "18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005"
+  },
+  "course_title": "Combinatorial Theory: Introduction to Graph Theory, Extremal and Enumerative Combinatorics",
+  "course_description": "This course serves as an introduction to major topics of modern enumerative and algebraic combinatorics with emphasis on partition identities, young tableaux bijections, spanning trees in graphs, and random generation of combinatorial objects. There is some discussion of various applications and connections to other fields.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.315",
+  "course_image_thumbnail": {
+    "content": "8dc593e7-da26-529c-9e84-a3dae7b1e045",
+    "website": "18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "85c4cd1e-cb62-422c-8f4b-32db97e37bcc",
+  "title": "Course Metadata"
+}

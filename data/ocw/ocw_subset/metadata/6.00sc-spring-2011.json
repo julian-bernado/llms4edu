@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ]
+  ],
+  "legacy_uid": "41b37938-a604-834d-01f3-e5faa9de5080",
+  "instructors": {
+    "content": [
+      "0fb19bce-9520-8355-d51a-1d5087eb5391"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "150f1db2-3890-c18c-a7b3-bdea6d64be88",
+    "website": "6-00sc-introduction-to-computer-science-and-programming-spring-2011"
+  },
+  "course_title": "Introduction to Computer Science and Programming",
+  "course_description": "This subject is aimed at students with **little or no programming experience**. It aims to provide students with an understanding of the role computation can play in solving problems. It also aims to help students, regardless of their major, to feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class will use the Python programming language.\n##### Course Format\n\n* * *\n\n[![Click to get started.](/images/button_start.png)](pages/Syllabus) This course has been designed for independent study. It provides everything you will need to understand the concepts covered in the course. The materials include:\n\n*   A complete set of **Lecture Videos** by Prof. Guttag.\n*   Resources for each lecture video, such as **Handouts, Slides,** and **Code Files.**\n*   **Recitation Videos** by course TA's to review content and problem solving techniques.\n*   **Homework** problems with sample student solutions.\n*   **Further Study** collections of links to supplemental online content.\n*   **Self-Assessment** tools, including lecture questions with answers and unit quizzes with solutions, to assess your subject mastery.",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.00SC",
+  "course_image_thumbnail": {
+    "content": "8f5a9bdc-3287-0b1d-41e6-bf4482f14274",
+    "website": "6-00sc-introduction-to-computer-science-and-programming-spring-2011"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Recitation Videos",
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Online Textbook",
+    "Programming Assignments with Examples"
+  ],
+  "site_uid": "ce6f7d33-2a93-404d-8546-a3c628c2b8b7",
+  "title": "Course Metadata"
+}

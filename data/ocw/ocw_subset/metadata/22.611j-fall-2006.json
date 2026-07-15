@@ -1,0 +1,59 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "High Energy Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ]
+  ],
+  "legacy_uid": "53cc2b27-3963-ca79-9563-6181b8d9c041",
+  "instructors": {
+    "content": [
+      "9d4c74a1-7bf7-1f68-6875-28eda966ba4a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c107de0a-bc4a-3369-e643-4485a8004fcb",
+    "website": "22-611j-introduction-to-plasma-physics-i-fall-2006"
+  },
+  "course_title": "Introduction to Plasma Physics I",
+  "course_description": "The plasma state dominates the visible universe, and is important in fields as diverse as Astrophysics and Controlled Fusion. Plasma is often referred to as \"the fourth state of matter.\" This course introduces the study of the nature and behavior of plasma. A variety of models to describe plasma behavior are presented.\n",
+  "department_numbers": [
+    "22",
+    "8",
+    "6"
+  ],
+  "extra_course_numbers": "8.613J,6.651J",
+  "primary_course_number": "22.611J",
+  "course_image_thumbnail": {
+    "content": "017cf663-d12e-7162-8ded-a81ca94044da",
+    "website": "22-611j-introduction-to-plasma-physics-i-fall-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "site_uid": "907fc43b-3cf5-4e3d-b4c8-81618fc55cc4",
+  "title": "Course Metadata"
+}

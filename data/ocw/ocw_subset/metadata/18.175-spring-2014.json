@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "3ffc15bd-89dc-2b02-2008-638010618126",
+  "instructors": {
+    "content": [
+      "e70c40f6-ed28-feb1-2e7b-c7beec422b27"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "27c7527c-8726-658a-d43f-1e098d73b67e",
+    "website": "18-175-theory-of-probability-spring-2014"
+  },
+  "course_title": "Theory of Probability",
+  "course_description": "This course covers topics such as sums of independent random variables, central limit phenomena, infinitely divisible laws, Levy processes, Brownian motion, conditioning, and martingales.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.175",
+  "course_image_thumbnail": {
+    "content": "66413546-3210-ac76-c41f-ca46e97c057a",
+    "website": "18-175-theory-of-probability-spring-2014"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "7685f29b-42b1-42b5-a70b-aef6c58adc24",
+  "title": "Course Metadata"
+}

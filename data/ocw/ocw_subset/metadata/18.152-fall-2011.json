@@ -1,0 +1,42 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "legacy_uid": "b0b17855-7860-d27d-6f3b-72a9f30d8e24",
+  "instructors": {
+    "content": [
+      "137a13d5-0757-8b5e-ec5c-862e1ca713c1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "06167238-4c03-28dd-4834-2ee80c3828fa",
+    "website": "18-152-introduction-to-partial-differential-equations-fall-2011"
+  },
+  "course_title": "Introduction to Partial Differential Equations",
+  "course_description": "This course introduces three main types of partial differential equations: diffusion, elliptic, and hyperbolic. It includes mathematical tools, real-world examples and applications.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.152",
+  "course_image_thumbnail": {
+    "content": "c2c451ec-7f76-60e9-f1c3-2e97fa9ae192",
+    "website": "18-152-introduction-to-partial-differential-equations-fall-2011"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "7c3a6a72-0ed7-42cc-ac02-b7d66f54dbff",
+  "title": "Course Metadata"
+}

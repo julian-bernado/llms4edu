@@ -1,0 +1,46 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering"
+    ]
+  ],
+  "legacy_uid": "8f2c0fc0-d292-8d55-9068-e3ec196935b1",
+  "instructors": {
+    "content": [
+      "d27b1160-e247-aaa9-981e-6cb9f15f110e",
+      "1ed357b3-b5c9-b415-fb6b-c10e3b33d14f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "709a331f-e24d-cc75-f7b0-52a0b84170d0",
+    "website": "6-161-modern-optics-project-laboratory-fall-2005"
+  },
+  "course_title": "Modern Optics Project Laboratory",
+  "course_description": "6.161 offers an introduction to laboratory optics, optical principles, and optical devices and systems. This course covers a wide range of topics, including: polarization properties of light, reflection and refraction, coherence and interference, Fraunhofer and Fresnel diffraction, holography, imaging and transforming properties of lenses, spatial filtering, two-lens coherent optical processor, optical properties of materials, lasers, electro-optic, acousto-optic and liquid-crystal light modulators, optical detectors, optical waveguides and fiber-optic communication systems. Students engage in extensive oral and written communication exercises. There are 12 engineering design points associated with this subject.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "6.637",
+  "primary_course_number": "6.161",
+  "course_image_thumbnail": {
+    "content": "031857a6-c514-624b-a5e6-d644f8e85f2e",
+    "website": "6-161-modern-optics-project-laboratory-fall-2005"
+  },
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "site_uid": "dbbdf5e7-6a97-4cc4-a2e4-d63877a15ba7",
+  "title": "Course Metadata"
+}

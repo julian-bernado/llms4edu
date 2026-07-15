@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Labor Economics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Econometrics"
+    ]
+  ],
+  "legacy_uid": "e622054a-701c-eb22-7080-8498b48968b0",
+  "instructors": {
+    "content": [
+      "744a649a-985b-a66d-b723-6c56d07258b0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b8ecaa82-e0dc-c2dc-aa9e-eddd61f67023",
+    "website": "14-64-labor-economics-and-public-policy-fall-2009"
+  },
+  "course_title": "Labor Economics and Public Policy",
+  "course_description": "This course is an introduction to labor economics with an emphasis on applied microeconomic theory and empirical analysis. We are especially interested in the link between research and public policy. Topics to be covered include: labor supply and demand, taxes and transfers, minimum wages, immigration, human capital, education production, inequality, discrimination, unions and strikes, and unemployment.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.64",
+  "course_image_thumbnail": {
+    "content": "ed1484de-6792-91e0-9aa2-8f6d1dedca67",
+    "website": "14-64-labor-economics-and-public-policy-fall-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "c5daeced-6acd-4cb2-8db0-a8b9ea0b0c8b",
+  "title": "Course Metadata"
+}

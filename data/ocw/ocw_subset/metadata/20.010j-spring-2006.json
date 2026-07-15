@@ -1,0 +1,64 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ]
+  ],
+  "legacy_uid": "6a3214ea-8fde-6a8e-8cf6-61335c59511e",
+  "instructors": {
+    "content": [
+      "32003dab-1ad9-d853-4cd2-88d8f4fde6e8",
+      "57ef754a-c4e4-6918-f91b-3c69b5e35ba2",
+      "8e8ddabd-4f76-f722-0de7-0672415f8e8e",
+      "3047386e-62d1-5a3d-0182-e0897415e8ae"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dbaac34b-8f80-d8fb-3a3c-315ae06e4865",
+    "website": "20-010j-introduction-to-bioengineering-be-010j-spring-2006"
+  },
+  "course_title": "Introduction to Bioengineering (BE.010J)",
+  "course_description": "Bioengineering at MIT is represented by the diverse curricula offered by most Departments in the School of Engineering. This course samples the wide variety of bioengineering options for students who plan to major in one of the undergraduate Engineering degree programs. The beginning lectures describe the science basis for bioengineering with particular emphasis on molecular cell biology and systems biology. Bioengineering faculty will then describe the bioengineering options in a particular engineering course as well as the type of research conducted by faculty in the department.\n",
+  "department_numbers": [
+    "20",
+    "2",
+    "6",
+    "7",
+    "10"
+  ],
+  "extra_course_numbers": "2.790J,6.025J,7.38J,10.010J",
+  "primary_course_number": "20.010J",
+  "course_image_thumbnail": {
+    "content": "3b08ca3e-3bde-e4c5-1ed9-0a29014eb7e7",
+    "website": "20-010j-introduction-to-bioengineering-be-010j-spring-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Videos",
+    "Lecture Notes"
+  ],
+  "site_uid": "c789e7b5-c16e-4eed-8b03-332a7b3b528d",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ]
+  ],
+  "legacy_uid": "8a3e30b3-389a-8cce-f725-7fc502043d08",
+  "instructors": {
+    "content": [
+      "c010ab86-ace6-3792-07c9-ce6c8e62e38f",
+      "63a00f76-105c-6091-d09d-83837b079c6c",
+      "e5f46db6-86a5-d8ff-7812-1ee5a488b025"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ad40b7bc-2fd8-fcd9-5f53-5c77aeeafde3",
+    "website": "6-001-structure-and-interpretation-of-computer-programs-spring-2005"
+  },
+  "course_title": "Structure and Interpretation of Computer Programs",
+  "course_description": "This course introduces students to the principles of computation. Upon completion of 6.001, students should be able to explain and apply the basic methods from programming languages to analyze computational systems, and to generate computational solutions to abstract problems. Substantial weekly programming assignments are an integral part of the course. This course is worth 4 Engineering Design Points.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.001",
+  "course_image_thumbnail": {
+    "content": "50fe6c4b-2f9a-7f1d-d52b-fe6fb4164854",
+    "website": "6-001-structure-and-interpretation-of-computer-programs-spring-2005"
+  },
+  "learning_resource_types": [
+    "Online Textbook",
+    "Exams",
+    "Lecture Notes",
+    "Projects",
+    "Lecture Videos"
+  ],
+  "site_uid": "c6b7f607-91e1-434c-969d-14493b38ce07",
+  "title": "Course Metadata"
+}
