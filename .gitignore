@@ -14,3 +14,6 @@ __pycache__/
 *.toc
 *.vrb
 *.synctex.gz
+
+# app run artifacts
+runs/

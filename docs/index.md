@@ -17,11 +17,7 @@ title: Leveraging LLMs for Data Analysis in Education Research
   <h2 id="resources-heading">Workshop resources</h2>
   <ul>
     <li>
-      {% if site.interactive_url and site.interactive_url != "" %}
-        <a href="{{ site.interactive_url }}">Interactive session</a>
-      {% else %}
-        Interactive session <span class="note">(not live)</span>
-      {% endif %}
+      <a href="{{ site.interactive_url }}">Interactive session</a>
     </li>
     <li>
       {% if site.slides_url and site.slides_url != "" %}

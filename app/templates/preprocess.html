@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Preprocessing Activity · Workshop</title>
+  <link rel="icon" type="image/png" href="/static/favicon.png">
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="/static/app.js" defer></script>
+</head>
+<body data-page="preprocess">
+  <header class="site-header">
+    <a class="brand" href="/home">Leveraging LLMs for Data Analysis in Education Research</a>
+    <span class="participant" data-participant></span>
+  </header>
+  <main class="page">
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/home">Activities</a><span>/</span><span>Preprocessing</span></nav>
+    <div class="title-row">
+      <div><p class="eyebrow">Activity 01</p><h1>Preprocessing</h1></div>
+      <a class="text-link" href="/syllabi">Browse all syllabi →</a>
+    </div>
+
+    <section class="card form-card" aria-labelledby="prompt-heading">
+      <h2 id="prompt-heading">Configure the prompt</h2>
+      <fieldset class="output-choice">
+        <legend>Output type</legend>
+        <label><input type="radio" name="output-type" value="boolean" checked> Boolean</label>
+        <label><input type="radio" name="output-type" value="number"> Number</label>
+      </fieldset>
+
+      <label for="system-prompt">System prompt</label>
+      <textarea id="system-prompt" class="system-prompt" rows="7" readonly aria-describedby="system-prompt-help">Loading…</textarea>
+      <p id="system-prompt-help" class="field-help">This system prompt cannot be edited.</p>
+
+      <label for="user-prompt">Your prompt</label>
+      <textarea id="user-prompt" rows="6" required placeholder="What would you like to identify in each syllabus?"></textarea>
+      <div class="form-actions">
+        <button id="run-button" type="button">Run over 50 syllabi</button>
+        <span id="run-message" class="status-message" role="status" aria-live="polite"></span>
+      </div>
+    </section>
+
+    <section id="progress-section" class="card progress-card" hidden aria-labelledby="progress-label">
+      <div class="progress-copy"><h2 id="progress-label">Running prompt</h2><span id="progress-count">0 / 50</span></div>
+      <progress id="run-progress" value="0" max="50">0%</progress>
+    </section>
+
+    <section id="results-section" class="results-section" hidden aria-labelledby="results-heading">
+      <div class="section-heading"><div><p class="eyebrow">Saved result</p><h2 id="results-heading">Results</h2></div></div>
+      <div class="result-overview">
+        <div class="card chart-card"><div id="preprocess-chart" class="chart" aria-label="Results chart"></div></div>
+        <div class="card"><h3 id="summary-heading">Summary</h3><dl id="preprocess-summary" class="summary-grid"></dl></div>
+      </div>
+      <details class="card item-results">
+        <summary>All syllabus results <span id="result-item-count" class="count-badge"></span></summary>
+        <div id="preprocess-items" class="result-list"></div>
+      </details>
+    </section>
+  </main>
+</body>
+</html>

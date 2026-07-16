@@ -10,7 +10,7 @@ event_location: Raikes 104
 
 # Add each destination when it is ready. The homepage will automatically turn
 # the corresponding "Coming soon" label into a link.
-interactive_url: ""
+interactive_url: "https://subsequent-institutions-agreements-passage.trycloudflare.com"
 slides_url: main.pdf
 
 theme: minima
